@@ -5,7 +5,7 @@
 module lab1_main();
 	reg[2:0] a, b;
 	reg c0;
-	wire[2:0] s, s_gl;
+	wire[2:0] s, s_gl; 
 	wire c3, c3_gl;
 	adder_rtl adder(c3, s, a, b, c0);
 
