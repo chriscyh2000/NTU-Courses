@@ -1,0 +1,16 @@
+#START-TROOP-1
+Hero 500 10000 30 Cheerup
+Servant1 1000 0 0
+Servant2 1000 0 0
+Servant3 1000 0 0
+Servant4 1000 0 0
+Servant5 1000 0 0
+#END-TROOP-1
+#START-TROOP-2
+Slime1 500 0 0
+#END-TROOP-2
+1
+0, 1, 2
+1
+2, 3, 4
+0

@@ -1,0 +1,14 @@
+#START-TROOP-1
+Hero 500 10000 10 Curse
+Ally 1 100 0 Curse
+#END-TROOP-1
+#START-TROOP-2
+Slime1 1 0 0
+Slime2 10 1000 0
+#END-TROOP-2
+1
+1
+0
+1
+1
+0

@@ -1,0 +1,530 @@
+[1]Hero's turn (HP: 5000, MP: 2000, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Soldier10
+[1]Hero uses Curse on [2]Soldier1.
+[1]GodTien's turn (HP: 2000, MP: 2000, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier6.
+[1]GodTien causes 120 damage to [2]Soldier6.
+[1]Starbucks's turn (HP: 2000, MP: 2000, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier9.
+[1]Slime causes 50 damage to [2]Soldier9.
+[2]Soldier1's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 uses Waterball on [1]Slime.
+[2]Soldier1 causes 120 damage to [1]Slime.
+[1]Slime dies.
+[2]Soldier2's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 uses Petrochemical on [1]Hero.
+[2]Soldier3's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]GodTien.
+[2]Soldier3 causes 50 damage to [1]GodTien.
+[2]Soldier4's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier4 causes 50 damage to [1]Hero.
+[2]Soldier4 causes 50 damage to [1]GodTien.
+[2]Soldier4 causes 50 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Starbucks.
+[2]Soldier5 causes 50 damage to [1]Starbucks.
+[2]Soldier6's turn (HP: 180, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 attacks [1]Hero.
+[2]Soldier6 causes 50 damage to [1]Hero.
+[2]Soldier7's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 uses Curse on [1]Starbucks.
+[2]Soldier8's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 attacks [1]Hero.
+[2]Soldier8 causes 50 damage to [1]Hero.
+[2]Soldier9's turn (HP: 250, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 uses OnePunch on [1]Hero.
+[2]Soldier9 causes 214 damage to [1]Hero.
+[2]Soldier10's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Soldier10 uses Summon.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Starbucks.
+[2]Slime causes 50 damage to [1]Starbucks.
+[1]Hero's turn (HP: 4636, MP: 1900, STR: 100, State: Petrochemical).
+[1]GodTien's turn (HP: 1900, MP: 1950, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses OnePunch on [2]Soldier8.
+[1]GodTien causes 252 damage to [2]Soldier8.
+[1]Starbucks's turn (HP: 1850, MP: 1850, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks attacks [2]Soldier10.
+[1]Starbucks causes 200 damage to [2]Soldier10.
+[2]Soldier1's turn (HP: 300, MP: 150, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 uses Waterball on [1]GodTien.
+[2]Soldier1 causes 120 damage to [1]GodTien.
+[2]Soldier2's turn (HP: 300, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 attacks [1]GodTien.
+[2]Soldier2 causes 50 damage to [1]GodTien.
+[2]Soldier3's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 300, MP: 150, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier4 causes 50 damage to [1]Hero.
+[2]Soldier4 causes 50 damage to [1]GodTien.
+[2]Soldier4 causes 50 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 300, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 uses OnePunch on [1]Hero.
+[2]Soldier5 causes 167 damage to [1]Hero.
+[2]Soldier6's turn (HP: 180, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 uses Cheerup on [2]Soldier3, [2]Soldier5, [2]Soldier10.
+[2]Soldier7's turn (HP: 300, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 uses Curse on [1]Starbucks.
+[2]Soldier8's turn (HP: 48, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier8 causes 50 damage to [1]Hero.
+[2]Soldier8 causes 50 damage to [1]GodTien.
+[2]Soldier8 causes 50 damage to [1]Starbucks.
+[2]Soldier9's turn (HP: 250, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Hero.
+[2]Soldier9 causes 50 damage to [1]Hero.
+[2]Soldier10's turn (HP: 100, MP: 50, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Summon
+[2]Soldier10 attacks [1]Hero.
+[2]Soldier10 causes 100 damage to [1]Hero.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 4169, MP: 1900, STR: 100, State: Petrochemical).
+[1]GodTien's turn (HP: 1630, MP: 1770, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses OnePunch on [2]Soldier7.
+[1]GodTien causes 220 damage to [2]Soldier7.
+[1]Starbucks's turn (HP: 1750, MP: 1850, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses SelfHealing.
+[2]Soldier1's turn (HP: 300, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 uses Waterball on [1]GodTien.
+[2]Soldier1 causes 120 damage to [1]GodTien.
+[2]Soldier2's turn (HP: 300, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 uses Petrochemical on [1]Hero.
+[2]Soldier3's turn (HP: 450, MP: 150, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 300, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 attacks [1]Starbucks.
+[2]Soldier4 causes 50 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 300, MP: 20, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Starbucks.
+[2]Soldier5 causes 100 damage to [1]Starbucks.
+[2]Soldier6's turn (HP: 180, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 uses Cheerup on [2]Soldier9, [2]Soldier4, [2]Soldier5.
+[2]Soldier7's turn (HP: 80, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 attacks [1]Hero.
+[2]Soldier7 causes 50 damage to [1]Hero.
+[2]Soldier8's turn (HP: 48, MP: 150, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 attacks [1]Starbucks.
+[2]Soldier8 causes 50 damage to [1]Starbucks.
+[2]Soldier9's turn (HP: 250, MP: 20, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Starbucks.
+[2]Soldier9 causes 100 damage to [1]Starbucks.
+[2]Soldier10's turn (HP: 100, MP: 50, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Summon
+[2]Soldier10 attacks [1]Starbucks.
+[2]Soldier10 causes 100 damage to [1]Starbucks.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Starbucks.
+[2]Slime causes 50 damage to [1]Starbucks.
+[1]Hero's turn (HP: 4119, MP: 1900, STR: 100, State: Petrochemical).
+[1]GodTien's turn (HP: 1510, MP: 1590, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses SelfHealing.
+[1]Starbucks's turn (HP: 1450, MP: 1800, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks attacks [2]Soldier10.
+[1]Starbucks causes 200 damage to [2]Soldier10.
+[2]Soldier10 dies.
+[2]Soldier1's turn (HP: 300, MP: 50, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 attacks [1]Starbucks.
+[2]Soldier1 causes 50 damage to [1]Starbucks.
+[2]Soldier2's turn (HP: 300, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 attacks [1]GodTien.
+[2]Soldier2 causes 50 damage to [1]GodTien.
+[2]Soldier3's turn (HP: 600, MP: 100, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 300, MP: 100, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier4 causes 100 damage to [1]Hero.
+[2]Soldier4 causes 100 damage to [1]GodTien.
+[2]Soldier4 causes 100 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 300, MP: 20, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Hero.
+[2]Soldier5 causes 100 damage to [1]Hero.
+[2]Soldier6's turn (HP: 180, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 attacks [1]Hero.
+[2]Soldier6 causes 50 damage to [1]Hero.
+[2]Soldier7's turn (HP: 80, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 attacks [1]Hero.
+[2]Soldier7 causes 50 damage to [1]Hero.
+[2]Soldier8's turn (HP: 48, MP: 150, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier8 causes 50 damage to [1]Hero.
+[2]Soldier8 causes 50 damage to [1]GodTien.
+[2]Soldier8 causes 50 damage to [1]Starbucks.
+[2]Soldier9's turn (HP: 250, MP: 20, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]GodTien.
+[2]Soldier9 causes 100 damage to [1]GodTien.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 3719, MP: 1900, STR: 100, State: Petrochemical).
+[1]GodTien's turn (HP: 1360, MP: 1540, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier1.
+[1]GodTien causes 120 damage to [2]Soldier1.
+[1]Starbucks's turn (HP: 1250, MP: 1800, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Petrochemical on [2]Soldier6.
+[2]Soldier1's turn (HP: 180, MP: 50, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 uses Waterball on [1]GodTien.
+[2]Soldier1 causes 120 damage to [1]GodTien.
+[2]Soldier2's turn (HP: 300, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 attacks [1]Hero.
+[2]Soldier2 causes 50 damage to [1]Hero.
+[2]Soldier3's turn (HP: 750, MP: 50, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 300, MP: 50, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier4 causes 100 damage to [1]Hero.
+[2]Soldier4 causes 100 damage to [1]GodTien.
+[2]Soldier4 causes 100 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 300, MP: 20, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Hero.
+[2]Soldier5 causes 100 damage to [1]Hero.
+[2]Soldier6's turn (HP: 180, MP: 0, STR: 50, State: Petrochemical).
+[2]Soldier7's turn (HP: 80, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 attacks [1]Starbucks.
+[2]Soldier7 causes 50 damage to [1]Starbucks.
+[2]Soldier8's turn (HP: 48, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier8 causes 50 damage to [1]Hero.
+[2]Soldier8 causes 50 damage to [1]GodTien.
+[2]Soldier8 causes 50 damage to [1]Starbucks.
+[2]Soldier9's turn (HP: 250, MP: 20, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Starbucks.
+[2]Soldier9 causes 100 damage to [1]Starbucks.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]GodTien.
+[2]Slime causes 50 damage to [1]GodTien.
+[1]Hero's turn (HP: 3419, MP: 1900, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Slime
+[1]Hero uses OnePunch on [2]Soldier1.
+[1]Hero causes 293 damage to [2]Soldier1.
+[2]Soldier1 dies.
+[1]GodTien's turn (HP: 1040, MP: 1490, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses OnePunch on [2]Soldier2.
+[1]GodTien causes 176 damage to [2]Soldier2.
+[1]Starbucks's turn (HP: 950, MP: 1700, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks attacks [2]Soldier6.
+[1]Starbucks causes 200 damage to [2]Soldier6.
+[2]Soldier6 dies.
+[2]Soldier2's turn (HP: 124, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 attacks [1]GodTien.
+[2]Soldier2 causes 50 damage to [1]GodTien.
+[2]Soldier3's turn (HP: 900, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]GodTien.
+[2]Soldier3 causes 50 damage to [1]GodTien.
+[2]Soldier4's turn (HP: 300, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 attacks [1]Starbucks.
+[2]Soldier4 causes 50 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 300, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Starbucks.
+[2]Soldier5 causes 50 damage to [1]Starbucks.
+[2]Soldier7's turn (HP: 80, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 attacks [1]Starbucks.
+[2]Soldier7 causes 50 damage to [1]Starbucks.
+[2]Soldier8's turn (HP: 48, MP: 50, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks.
+[2]Soldier8 causes 50 damage to [1]Hero.
+[2]Soldier8 causes 50 damage to [1]GodTien.
+[2]Soldier8 causes 50 damage to [1]Starbucks.
+[2]Soldier9's turn (HP: 250, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Starbucks.
+[2]Soldier9 causes 50 damage to [1]Starbucks.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]GodTien.
+[2]Slime causes 50 damage to [1]GodTien.
+[1]Hero's turn (HP: 3369, MP: 1720, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier2 (1) [2]Soldier3 (2) [2]Soldier4 (3) [2]Soldier5 (4) [2]Soldier7 (5) [2]Soldier8 (6) [2]Soldier9 (7) [2]Slime
+[1]Hero uses Curse on [2]Soldier2.
+[1]GodTien's turn (HP: 840, MP: 1310, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien attacks [2]Soldier3.
+[1]GodTien causes 100 damage to [2]Soldier3.
+[1]Starbucks's turn (HP: 700, MP: 1700, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier5.
+[1]Slime causes 50 damage to [2]Soldier5.
+[2]Soldier2's turn (HP: 124, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 attacks [1]Starbucks.
+[2]Soldier2 causes 50 damage to [1]Starbucks.
+[2]Soldier3's turn (HP: 800, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Starbucks.
+[2]Soldier3 causes 50 damage to [1]Starbucks.
+[2]Soldier4's turn (HP: 300, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 attacks [1]Starbucks.
+[2]Soldier4 causes 50 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 250, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Hero.
+[2]Soldier5 causes 50 damage to [1]Hero.
+[2]Soldier7's turn (HP: 80, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 attacks [1]Hero.
+[2]Soldier7 causes 50 damage to [1]Hero.
+[2]Soldier8's turn (HP: 48, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 attacks [1]Slime.
+[2]Soldier8 causes 50 damage to [1]Slime.
+[2]Soldier9's turn (HP: 250, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Starbucks.
+[2]Soldier9 causes 50 damage to [1]Starbucks.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 3219, MP: 1620, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier2 (1) [2]Soldier3 (2) [2]Soldier4 (3) [2]Soldier5 (4) [2]Soldier7 (5) [2]Soldier8 (6) [2]Soldier9 (7) [2]Slime
+[1]Hero uses OnePunch on [2]Soldier2.
+[1]Hero causes 133 damage to [2]Soldier2.
+[2]Soldier2 dies.
+[1]GodTien's turn (HP: 840, MP: 1310, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien attacks [2]Soldier4.
+[1]GodTien causes 100 damage to [2]Soldier4.
+[1]Starbucks's turn (HP: 500, MP: 1550, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks attacks [2]Soldier7.
+[1]Starbucks causes 200 damage to [2]Soldier7.
+[2]Soldier7 dies.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier9.
+[1]Slime causes 50 damage to [2]Soldier9.
+[2]Soldier3's turn (HP: 800, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Slime.
+[2]Soldier3 causes 50 damage to [1]Slime.
+[1]Slime dies.
+[2]Soldier4's turn (HP: 200, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 attacks [1]Hero.
+[2]Soldier4 causes 50 damage to [1]Hero.
+[2]Soldier5's turn (HP: 250, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Starbucks.
+[2]Soldier5 causes 50 damage to [1]Starbucks.
+[2]Soldier8's turn (HP: 48, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 attacks [1]Starbucks.
+[2]Soldier8 causes 50 damage to [1]Starbucks.
+[2]Soldier9's turn (HP: 200, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Hero.
+[2]Soldier9 causes 50 damage to [1]Hero.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 3069, MP: 1440, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+[1]Hero uses Fireball on [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Soldier8, [2]Soldier9, [2]Slime.
+[1]Hero causes 50 damage to [2]Soldier3.
+[1]Hero causes 50 damage to [2]Soldier4.
+[1]Hero causes 50 damage to [2]Soldier5.
+[1]Hero causes 50 damage to [2]Soldier8.
+[2]Soldier8 dies.
+[1]Hero causes 50 damage to [2]Soldier9.
+[1]Hero causes 50 damage to [2]Slime.
+[1]GodTien's turn (HP: 840, MP: 1310, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses OnePunch on [2]Soldier9.
+[1]GodTien causes 228 damage to [2]Soldier9.
+[2]Soldier9 dies.
+[1]Starbucks's turn (HP: 400, MP: 1550, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier4.
+[1]Slime causes 50 damage to [2]Soldier4.
+[2]Soldier3's turn (HP: 750, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]GodTien.
+[2]Soldier3 causes 50 damage to [1]GodTien.
+[2]Soldier4's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 attacks [1]Hero.
+[2]Soldier4 causes 50 damage to [1]Hero.
+[2]Soldier5's turn (HP: 200, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]GodTien.
+[2]Soldier5 causes 50 damage to [1]GodTien.
+[2]Slime's turn (HP: 50, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]GodTien.
+[2]Slime causes 50 damage to [1]GodTien.
+[1]Hero's turn (HP: 3019, MP: 1390, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+[1]Hero uses Fireball on [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Slime.
+[1]Hero causes 50 damage to [2]Soldier3.
+[1]Hero causes 50 damage to [2]Soldier4.
+[1]Hero causes 50 damage to [2]Soldier5.
+[1]Hero causes 50 damage to [2]Slime.
+[2]Slime dies.
+[1]GodTien's turn (HP: 690, MP: 1130, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier3.
+[1]GodTien causes 120 damage to [2]Soldier3.
+[1]Starbucks's turn (HP: 400, MP: 1400, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier4.
+[1]Slime causes 50 damage to [2]Soldier4.
+[2]Soldier4 dies.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 50 damage to [2]Soldier3.
+[2]Soldier3's turn (HP: 530, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Starbucks.
+[2]Soldier3 causes 50 damage to [1]Starbucks.
+[2]Soldier5's turn (HP: 150, MP: 20, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier5 attacks [1]Slime.
+[2]Soldier5 causes 50 damage to [1]Slime.
+[1]Hero's turn (HP: 3019, MP: 1340, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 3 targets: (0) [1]GodTien (1) [1]Starbucks (2) [1]Slime (3) [1]Slime
+[1]Hero uses Cheerup on [1]Starbucks, [1]Slime, [1]Slime.
+[1]GodTien's turn (HP: 690, MP: 1080, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses OnePunch on [2]Soldier3.
+[1]GodTien causes 26 damage to [2]Soldier3.
+[1]Starbucks's turn (HP: 350, MP: 1250, STR: 200, State: Cheerup).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier5.
+[1]Slime causes 100 damage to [2]Soldier5.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier5.
+[1]Slime causes 100 damage to [2]Soldier5.
+[2]Soldier5 dies.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 50 damage to [2]Soldier3.
+[2]Soldier3's turn (HP: 454, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Slime.
+[2]Soldier3 causes 50 damage to [1]Slime.
+[1]Hero's turn (HP: 3019, MP: 1240, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 3 targets: (0) [1]GodTien (1) [1]Starbucks (2) [1]Slime (3) [1]Slime (4) [1]Slime
+[1]Hero uses Cheerup on [1]GodTien, [1]Starbucks, [1]Slime.
+[1]GodTien's turn (HP: 690, MP: 900, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier3.
+[1]GodTien causes 170 damage to [2]Soldier3.
+[1]Starbucks's turn (HP: 350, MP: 1100, STR: 200, State: Cheerup).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Petrochemical on [2]Soldier3.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 100 damage to [2]Soldier3.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 100 damage to [2]Soldier3.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 50 damage to [2]Soldier3.
+[2]Soldier3's turn (HP: 34, MP: 0, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 3019, MP: 1140, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+[1]Hero uses Fireball on [2]Soldier3.
+[1]Hero causes 50 damage to [2]Soldier3.
+[2]Soldier3 dies.
+You win.

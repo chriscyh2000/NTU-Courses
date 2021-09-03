@@ -1,0 +1,68 @@
+[1]Hero's turn (HP: 300, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+[1]Hero uses SelfHealing.
+[1]GodTien's turn (HP: 1000, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]GodTien uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Waterball.
+[1]Slime causes 50 damage to [2]Waterball.
+[2]Waterball's turn (HP: 150, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Waterball attacks [1]GodTien.
+[2]Waterball causes 50 damage to [1]GodTien.
+[2]Chaoyu's turn (HP: 200, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Chaoyu attacks [1]Slime.
+[2]Chaoyu causes 50 damage to [1]Slime.
+[1]Hero's turn (HP: 450, MP: 450, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+[1]Hero uses SelfHealing.
+[1]GodTien's turn (HP: 950, MP: 350, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]GodTien attacks [2]Waterball.
+[1]GodTien causes 100 damage to [2]Waterball.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Waterball.
+[1]Slime causes 50 damage to [2]Waterball.
+[2]Waterball dies.
+[2]Chaoyu's turn (HP: 200, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Chaoyu uses Summon.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Slime.
+[2]Slime causes 50 damage to [1]Slime.
+[1]Slime dies.
+[1]Hero's turn (HP: 600, MP: 400, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+Select 1 targets: (0) [2]Chaoyu (1) [2]Slime
+[1]Hero uses Waterball on [2]Slime.
+[1]Hero causes 120 damage to [2]Slime.
+[2]Slime dies.
+[1]GodTien's turn (HP: 950, MP: 350, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]GodTien uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Chaoyu.
+[1]Slime causes 50 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 150, MP: 50, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 550, MP: 350, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+[1]Hero uses Petrochemical on [2]Chaoyu.
+[1]GodTien's turn (HP: 950, MP: 200, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]GodTien attacks [2]Chaoyu.
+[1]GodTien causes 100 damage to [2]Chaoyu.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Chaoyu.
+[1]Slime causes 50 damage to [2]Chaoyu.
+[2]Chaoyu dies.
+You win.

@@ -1,0 +1,21 @@
+#START-TROOP-1
+Hero 500 800 100 Fireball Summon OnePunch Cheerup Curse
+GodTien 1000 9999 100 OnePunch Cheerup Summon
+#END-TROOP-1
+#START-TROOP-2
+Waterball 300 1000 50 Summon OnePunch Cheerup Fireball
+Chaoyu 2000 1000 1000 Summon Curse OnePunch Petrochemical
+#END-TROOP-2
+5
+0
+3
+0
+3
+3
+3
+4
+2
+0
+0
+0
+0

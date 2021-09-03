@@ -1,0 +1,126 @@
+[1]Hero's turn (HP: 1000, MP: 800, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
+[1]Hero uses Cheerup on [1]GodTien, [1]Starbucks.
+[1]GodTien's turn (HP: 1000, MP: 9999, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Cheerup (3) Summon
+[1]GodTien uses Cheerup on [1]Hero, [1]Starbucks.
+[1]Starbucks's turn (HP: 400, MP: 500, STR: 200, State: Cheerup).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Starbucks uses Petrochemical on [2]Waterball.
+[2]Waterball's turn (HP: 1000, MP: 1000, STR: 50, State: Petrochemical).
+[2]Chaoyu's turn (HP: 1000, MP: 1000, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) Petrochemical (4) OnePunch
+[2]Chaoyu uses Curse on [1]GodTien.
+[2]CCChang's turn (HP: 1000, MP: 1000, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petrochemical (5) SelfHealing
+[2]CCChang uses SelfHealing.
+[1]Hero's turn (HP: 1000, MP: 700, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu (2) [2]CCChang
+[1]Hero uses Curse on [2]Waterball.
+[1]GodTien's turn (HP: 1000, MP: 9899, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Cheerup (3) Summon
+[1]GodTien uses OnePunch on [2]CCChang.
+[1]GodTien causes 337 damage to [2]CCChang.
+[1]Starbucks's turn (HP: 400, MP: 400, STR: 200, State: Cheerup).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Starbucks uses Petrochemical on [2]Chaoyu.
+[2]Waterball's turn (HP: 1000, MP: 1000, STR: 50, State: Petrochemical).
+[2]Chaoyu's turn (HP: 1000, MP: 900, STR: 1000, State: Petrochemical).
+[2]CCChang's turn (HP: 813, MP: 950, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petrochemical (5) SelfHealing
+[2]CCChang attacks [1]Starbucks.
+[2]CCChang causes 1000 damage to [1]Starbucks.
+[1]Starbucks dies.
+[1]Hero's turn (HP: 1000, MP: 600, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu (2) [2]CCChang
+[1]Hero uses OnePunch on [2]Waterball.
+[1]Hero causes 341 damage to [2]Waterball.
+[1]GodTien's turn (HP: 1000, MP: 9719, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Cheerup (3) Summon
+[1]GodTien uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Waterball.
+[1]Slime causes 50 damage to [2]Waterball.
+[2]Waterball's turn (HP: 609, MP: 1000, STR: 50, State: Petrochemical).
+[2]Chaoyu's turn (HP: 1000, MP: 900, STR: 1000, State: Petrochemical).
+[2]CCChang's turn (HP: 813, MP: 950, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petrochemical (5) SelfHealing
+[2]CCChang attacks [1]GodTien.
+[2]CCChang causes 1000 damage to [1]GodTien.
+[1]GodTien dies.
+[1]Hero's turn (HP: 1000, MP: 420, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]CCChang.
+[1]Slime causes 50 damage to [2]CCChang.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]CCChang.
+[1]Slime causes 50 damage to [2]CCChang.
+[2]Waterball's turn (HP: 609, MP: 1000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) OnePunch (3) Cheerup (4) Fireball (5) Waterball
+[2]Waterball attacks [1]Hero.
+[2]Waterball causes 50 damage to [1]Hero.
+[2]Chaoyu's turn (HP: 10569, MP: 900, STR: 1000, State: Petrochemical).
+[2]CCChang's turn (HP: 713, MP: 950, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petrochemical (5) SelfHealing
+[2]CCChang attacks [1]Slime.
+[2]CCChang causes 1000 damage to [1]Slime.
+[1]Slime dies.
+[1]Hero's turn (HP: 950, MP: 270, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Waterball.
+[1]Slime causes 50 damage to [2]Waterball.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Waterball.
+[1]Slime causes 50 damage to [2]Waterball.
+[2]Waterball's turn (HP: 509, MP: 1000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) OnePunch (3) Cheerup (4) Fireball (5) Waterball
+[2]Waterball uses Fireball on [1]Hero, [1]Slime, [1]Slime.
+[2]Waterball causes 50 damage to [1]Hero.
+[2]Waterball causes 50 damage to [1]Slime.
+[2]Waterball causes 50 damage to [1]Slime.
+[2]Chaoyu's turn (HP: 10569, MP: 900, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) Petrochemical (4) OnePunch
+[2]Chaoyu uses Summon.
+[2]CCChang's turn (HP: 713, MP: 950, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petrochemical (5) SelfHealing
+[2]CCChang uses Petrochemical on [1]Slime.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Slime.
+[2]Slime causes 50 damage to [1]Slime.
+[1]Slime dies.
+[1]Hero's turn (HP: 900, MP: 120, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
+[1]Hero uses Fireball on [2]Waterball, [2]Chaoyu, [2]CCChang, [2]Slime.
+[1]Hero causes 50 damage to [2]Waterball.
+[1]Hero causes 50 damage to [2]Chaoyu.
+[1]Hero causes 50 damage to [2]CCChang.
+[1]Hero causes 50 damage to [2]Slime.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Chaoyu.
+[1]Slime causes 50 damage to [2]Chaoyu.
+[2]Waterball's turn (HP: 459, MP: 950, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) OnePunch (3) Cheerup (4) Fireball (5) Waterball
+[2]Waterball uses Waterball on [1]Hero.
+[2]Waterball causes 120 damage to [1]Hero.
+[2]Chaoyu's turn (HP: 10469, MP: 750, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) Petrochemical (4) OnePunch
+[2]Chaoyu uses Curse on [1]Slime.
+[2]CCChang's turn (HP: 663, MP: 850, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petrochemical (5) SelfHealing
+[2]CCChang attacks [1]Hero.
+[2]CCChang causes 1000 damage to [1]Hero.
+[1]Hero dies.
+You lose.

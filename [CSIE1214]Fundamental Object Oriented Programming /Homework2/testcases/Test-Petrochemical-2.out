@@ -1,0 +1,29 @@
+[1]Hero's turn (HP: 999999, MP: 99999, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing (2) Petrochemical
+[1]Hero uses SelfHealing.
+[2]A's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A uses Petrochemical on [1]Hero.
+[1]Hero's turn (HP: 1000149, MP: 99949, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 1000134, MP: 99949, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 1000119, MP: 99949, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing (2) Petrochemical
+[1]Hero uses SelfHealing.
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 1000254, MP: 99899, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing (2) Petrochemical
+[1]Hero attacks [2]A.
+[1]Hero causes 30 damage to [2]A.
+[2]A dies.
+You win.

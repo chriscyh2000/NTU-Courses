@@ -1,0 +1,109 @@
+[1]Hero's turn (HP: 1000, MP: 500, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) Poison (2) Fireball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero uses Poison on [2]Slime1.
+[2]Slime1's turn (HP: 120, MP: 90, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 120, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[2]Slime3's turn (HP: 120, MP: 9000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 850, MP: 420, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) Poison (2) Fireball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero uses Poison on [2]Slime2.
+[2]Slime1's turn (HP: 90, MP: 90, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 120, MP: 90, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[2]Slime3's turn (HP: 120, MP: 9000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 700, MP: 340, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) Poison (2) Fireball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero uses Poison on [2]Slime3.
+[2]Slime1's turn (HP: 60, MP: 90, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 90, MP: 90, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[2]Slime3's turn (HP: 120, MP: 9000, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 550, MP: 260, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) Poison (2) Fireball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero attacks [2]Slime1.
+[1]Hero causes 0 damage to [2]Slime1.
+[2]Slime1's turn (HP: 30, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 60, MP: 90, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[2]Slime3's turn (HP: 90, MP: 9000, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 400, MP: 260, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) Poison (2) Fireball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero attacks [2]Slime1.
+[1]Hero causes 0 damage to [2]Slime1.
+[2]Slime1's turn (HP: 30, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 30, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[2]Slime3's turn (HP: 60, MP: 9000, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 250, MP: 260, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) Poison (2) Fireball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero attacks [2]Slime1.
+[1]Hero causes 0 damage to [2]Slime1.
+[2]Slime1's turn (HP: 30, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 30, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[2]Slime3's turn (HP: 30, MP: 9000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 100, MP: 260, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) Poison (2) Fireball
+[1]Hero uses Fireball on [2]Slime1, [2]Slime2, [2]Slime3.
+[1]Hero causes 50 damage to [2]Slime1.
+[2]Slime1 dies.
+[1]Hero causes 50 damage to [2]Slime2.
+[2]Slime2 dies.
+[1]Hero causes 50 damage to [2]Slime3.
+[2]Slime3 dies.
+You win.

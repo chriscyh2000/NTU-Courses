@@ -1,0 +1,128 @@
+[1]Hero's turn (HP: 200, MP: 150, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu
+[1]Hero uses Curse on [2]Waterball.
+[1]GodTien's turn (HP: 1000, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Fireball
+[1]GodTien uses Cheerup on [1]Hero.
+[2]Waterball's turn (HP: 170, MP: 9000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Fireball
+[2]Waterball uses Fireball on [1]Hero, [1]GodTien.
+[2]Waterball causes 50 damage to [1]Hero.
+[2]Waterball causes 50 damage to [1]GodTien.
+[2]Chaoyu's turn (HP: 1000, MP: 1000, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu attacks [1]GodTien.
+[2]Chaoyu causes 1000 damage to [1]GodTien.
+[1]GodTien dies.
+[1]Hero's turn (HP: 150, MP: 50, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu
+[1]Hero uses Waterball on [2]Waterball.
+[1]Hero causes 170 damage to [2]Waterball.
+[2]Waterball dies.
+[2]Chaoyu's turn (HP: 1000, MP: 1000, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu uses Curse on [1]Hero.
+[1]Hero's turn (HP: 9100, MP: 0, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 150 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 850, MP: 900, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu uses Curse on [1]Hero.
+[1]Hero's turn (HP: 9100, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 750, MP: 800, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 1000 damage to [1]Hero.
+[1]Hero's turn (HP: 8100, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 650, MP: 800, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu uses Curse on [1]Hero.
+[1]Hero's turn (HP: 8100, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 550, MP: 700, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu uses Curse on [1]Hero.
+[1]Hero's turn (HP: 8100, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 450, MP: 600, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu uses Curse on [1]Hero.
+[1]Hero's turn (HP: 8100, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 350, MP: 500, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu uses Summon.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 8050, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+Select 1 targets: (0) [2]Chaoyu (1) [2]Slime
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 250, MP: 350, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 1000 damage to [1]Hero.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 7000, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+Select 1 targets: (0) [2]Chaoyu (1) [2]Slime
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 150, MP: 350, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 1000 damage to [1]Hero.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 5950, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+Select 1 targets: (0) [2]Chaoyu (1) [2]Slime
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 50, MP: 350, STR: 1000, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Curse
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 1000 damage to [1]Hero.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 4900, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+Select 1 targets: (0) [2]Chaoyu (1) [2]Slime
+[1]Hero attacks [2]Chaoyu.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu dies.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 4850, MP: 0, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) Cheerup (6) Curse
+[1]Hero attacks [2]Slime.
+[1]Hero causes 100 damage to [2]Slime.
+[2]Slime dies.
+You win.

@@ -1,0 +1,70 @@
+[1]Hero's turn (HP: 500, MP: 10000, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+Select 3 targets: (0) [1]Servant1 (1) [1]Servant2 (2) [1]Servant3 (3) [1]Servant4 (4) [1]Servant5
+[1]Hero uses Cheerup on [1]Servant1, [1]Servant2, [1]Servant3.
+[1]Servant1's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant1 attacks [2]Slime1.
+[1]Servant1 causes 50 damage to [2]Slime1.
+[1]Servant2's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant2 attacks [2]Slime1.
+[1]Servant2 causes 50 damage to [2]Slime1.
+[1]Servant3's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant3 attacks [2]Slime1.
+[1]Servant3 causes 50 damage to [2]Slime1.
+[1]Servant4's turn (HP: 1000, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[1]Servant4 attacks [2]Slime1.
+[1]Servant4 causes 0 damage to [2]Slime1.
+[1]Servant5's turn (HP: 1000, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[1]Servant5 attacks [2]Slime1.
+[1]Servant5 causes 0 damage to [2]Slime1.
+[2]Slime1's turn (HP: 350, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Servant2.
+[2]Slime1 causes 0 damage to [1]Servant2.
+[1]Hero's turn (HP: 500, MP: 9900, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+Select 3 targets: (0) [1]Servant1 (1) [1]Servant2 (2) [1]Servant3 (3) [1]Servant4 (4) [1]Servant5
+[1]Hero uses Cheerup on [1]Servant3, [1]Servant4, [1]Servant5.
+[1]Servant1's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant1 attacks [2]Slime1.
+[1]Servant1 causes 50 damage to [2]Slime1.
+[1]Servant2's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant2 attacks [2]Slime1.
+[1]Servant2 causes 50 damage to [2]Slime1.
+[1]Servant3's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant3 attacks [2]Slime1.
+[1]Servant3 causes 50 damage to [2]Slime1.
+[1]Servant4's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant4 attacks [2]Slime1.
+[1]Servant4 causes 50 damage to [2]Slime1.
+[1]Servant5's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant5 attacks [2]Slime1.
+[1]Servant5 causes 50 damage to [2]Slime1.
+[2]Slime1's turn (HP: 100, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Servant3.
+[2]Slime1 causes 0 damage to [1]Servant3.
+[1]Hero's turn (HP: 500, MP: 9800, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[1]Hero attacks [2]Slime1.
+[1]Hero causes 30 damage to [2]Slime1.
+[1]Servant1's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant1 attacks [2]Slime1.
+[1]Servant1 causes 50 damage to [2]Slime1.
+[1]Servant2's turn (HP: 1000, MP: 0, STR: 0, State: Cheerup).
+Select an action: (0) Basic Attack
+[1]Servant2 attacks [2]Slime1.
+[1]Servant2 causes 50 damage to [2]Slime1.
+[2]Slime1 dies.
+You win.

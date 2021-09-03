@@ -1,0 +1,14 @@
+mkdir a
+mkdir a2
+cd a2
+mkdir abc
+mkdir cba
+ls
+cd ..
+mkdir c
+ls
+rm a2
+ls
+rm a
+ls
+exit

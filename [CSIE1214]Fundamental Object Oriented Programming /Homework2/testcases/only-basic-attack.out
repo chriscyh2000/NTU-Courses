@@ -1,0 +1,71 @@
+[1]Hero's turn (HP: 500, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero attacks [2]Slime1.
+[1]Hero causes 100 damage to [2]Slime1.
+[1]WaterTA's turn (HP: 200, MP: 200, STR: 70, State: Normal).
+Select an action: (0) Basic Attack
+[1]WaterTA attacks [2]Slime1.
+[1]WaterTA causes 70 damage to [2]Slime1.
+[2]Slime1's turn (HP: 30, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 200, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]WaterTA.
+[2]Slime2 causes 50 damage to [1]WaterTA.
+[2]Slime3's turn (HP: 200, MP: 9000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 400, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero attacks [2]Slime1.
+[1]Hero causes 100 damage to [2]Slime1.
+[2]Slime1 dies.
+[1]WaterTA's turn (HP: 150, MP: 200, STR: 70, State: Normal).
+Select an action: (0) Basic Attack
+[1]WaterTA attacks [2]Slime3.
+[1]WaterTA causes 70 damage to [2]Slime3.
+[2]Slime2's turn (HP: 200, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]WaterTA.
+[2]Slime2 causes 50 damage to [1]WaterTA.
+[2]Slime3's turn (HP: 130, MP: 9000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime3 attacks [1]WaterTA.
+[2]Slime3 causes 50 damage to [1]WaterTA.
+[1]Hero's turn (HP: 400, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack
+Select 1 targets: (0) [2]Slime2 (1) [2]Slime3
+[1]Hero attacks [2]Slime3.
+[1]Hero causes 100 damage to [2]Slime3.
+[1]WaterTA's turn (HP: 50, MP: 200, STR: 70, State: Normal).
+Select an action: (0) Basic Attack
+[1]WaterTA attacks [2]Slime3.
+[1]WaterTA causes 70 damage to [2]Slime3.
+[2]Slime3 dies.
+[2]Slime2's turn (HP: 200, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 350, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack
+[1]Hero attacks [2]Slime2.
+[1]Hero causes 100 damage to [2]Slime2.
+[1]WaterTA's turn (HP: 50, MP: 200, STR: 70, State: Normal).
+Select an action: (0) Basic Attack
+[1]WaterTA attacks [2]Slime2.
+[1]WaterTA causes 70 damage to [2]Slime2.
+[2]Slime2's turn (HP: 30, MP: 90, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 300, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack
+[1]Hero attacks [2]Slime2.
+[1]Hero causes 100 damage to [2]Slime2.
+[2]Slime2 dies.
+You win.

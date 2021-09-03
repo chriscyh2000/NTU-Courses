@@ -1,0 +1,38 @@
+[1]Hero's turn (HP: 300, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball
+[1]Hero uses Fireball on [2]Slime1, [2]Slime2.
+[1]Hero causes 50 damage to [2]Slime1.
+[1]Hero causes 50 damage to [2]Slime2.
+[2]Slime1's turn (HP: 150, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Slime1 uses Fireball on [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 150, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball
+[2]Slime2 uses Fireball on [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 200, MP: 450, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2
+[1]Hero uses Waterball on [2]Slime1.
+[1]Hero causes 120 damage to [2]Slime1.
+[2]Slime1's turn (HP: 30, MP: 150, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Slime1 uses Fireball on [1]Hero.
+[2]Slime1 causes 50 damage to [1]Hero.
+[2]Slime2's turn (HP: 150, MP: 150, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball
+[2]Slime2 uses Waterball on [1]Hero.
+[2]Slime2 causes 120 damage to [1]Hero.
+[1]Hero's turn (HP: 30, MP: 400, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2
+[1]Hero uses Waterball on [2]Slime1.
+[1]Hero causes 120 damage to [2]Slime1.
+[2]Slime1 dies.
+[2]Slime2's turn (HP: 150, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball
+[2]Slime2 uses Fireball on [1]Hero.
+[2]Slime2 causes 50 damage to [1]Hero.
+[1]Hero dies.
+You lose.

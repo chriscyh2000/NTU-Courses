@@ -1,0 +1,40 @@
+[1]Hero's turn (HP: 500, MP: 80, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+[1]Hero uses Waterball on [2]AI.
+[1]Hero causes 120 damage to [2]AI.
+[2]AI's turn (HP: 80, MP: 80, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]AI uses Waterball on [1]Hero.
+[2]AI causes 120 damage to [1]Hero.
+[1]Hero's turn (HP: 380, MP: 30, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+You can't perform the action: insufficient MP.
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+You can't perform the action: insufficient MP.
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+[1]Hero attacks [2]AI.
+[1]Hero causes 30 damage to [2]AI.
+[2]AI's turn (HP: 50, MP: 30, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]AI attacks [1]Hero.
+[2]AI causes 10 damage to [1]Hero.
+[1]Hero's turn (HP: 370, MP: 30, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+You can't perform the action: insufficient MP.
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+You can't perform the action: insufficient MP.
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+You can't perform the action: insufficient MP.
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+[1]Hero attacks [2]AI.
+[1]Hero causes 30 damage to [2]AI.
+[2]AI's turn (HP: 20, MP: 30, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]AI attacks [1]Hero.
+[2]AI causes 10 damage to [1]Hero.
+[1]Hero's turn (HP: 360, MP: 30, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball (2) Fireball (3) SelfHealing
+[1]Hero attacks [2]AI.
+[1]Hero causes 30 damage to [2]AI.
+[2]AI dies.
+You win.

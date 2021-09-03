@@ -1,0 +1,79 @@
+[1]Hero's turn (HP: 300, MP: 950, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) Poison (4) Petrochemical (5) Cheerup
+[1]Hero uses Cheerup on [1]GodTien.
+[1]GodTien's turn (HP: 1000, MP: 500, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[1]GodTien uses Cheerup on [1]Hero.
+[2]Waterball's turn (HP: 200, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Waterball uses Poison on [1]Hero.
+[2]Chaoyu's turn (HP: 200, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 250, MP: 850, STR: 100, State: Poisoned).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) Poison (4) Petrochemical (5) Cheerup
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu
+[1]Hero uses Poison on [2]Waterball.
+[1]GodTien's turn (HP: 1000, MP: 400, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[1]GodTien attacks [2]Chaoyu.
+[1]GodTien causes 150 damage to [2]Chaoyu.
+[2]Waterball's turn (HP: 200, MP: 420, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Waterball uses Summon.
+[2]Chaoyu's turn (HP: 50, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Chaoyu uses Poison on [1]GodTien.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Hero.
+[2]Slime causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 170, MP: 770, STR: 100, State: Poisoned).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) Poison (4) Petrochemical (5) Cheerup
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu (2) [2]Slime
+[1]Hero uses Poison on [2]Slime.
+[1]GodTien's turn (HP: 1000, MP: 400, STR: 100, State: Poisoned).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[1]GodTien uses Cheerup on [1]Hero.
+[2]Waterball's turn (HP: 170, MP: 270, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Waterball uses Cheerup on [2]Chaoyu, [2]Slime.
+[2]Chaoyu's turn (HP: 50, MP: 420, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Chaoyu uses Poison on [1]GodTien.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]GodTien.
+[2]Slime causes 100 damage to [1]GodTien.
+[1]Hero's turn (HP: 140, MP: 690, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) Poison (4) Petrochemical (5) Cheerup
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu (2) [2]Slime
+[1]Hero uses Poison on [2]Chaoyu.
+[1]GodTien's turn (HP: 870, MP: 300, STR: 100, State: Poisoned).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[1]GodTien uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Waterball.
+[1]Slime causes 50 damage to [2]Waterball.
+[2]Waterball's turn (HP: 90, MP: 170, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Waterball uses Poison on [1]GodTien.
+[2]Chaoyu's turn (HP: 50, MP: 340, STR: 50, State: Poisoned).
+Select an action: (0) Basic Attack (1) Summon (2) Cheerup (3) Poison
+[2]Chaoyu uses Cheerup on [2]Waterball, [2]Slime.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]GodTien.
+[2]Slime causes 100 damage to [1]GodTien.
+[1]Hero's turn (HP: 140, MP: 610, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) Poison (4) Petrochemical (5) Cheerup
+[1]Hero uses Fireball on [2]Waterball, [2]Chaoyu, [2]Slime.
+[1]Hero causes 100 damage to [2]Waterball.
+[2]Waterball dies.
+[1]Hero causes 100 damage to [2]Chaoyu.
+[2]Chaoyu dies.
+[1]Hero causes 100 damage to [2]Slime.
+[2]Slime dies.
+You win.

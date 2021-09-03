@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "chrono": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

@@ -1,0 +1,55 @@
+[1]Hero's turn (HP: 9999, MP: 10000, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero uses OnePunch on [2]Slime1.
+[1]Hero causes 74 damage to [2]Slime1.
+[2]Slime1's turn (HP: 26, MP: 10000, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Slime1 uses OnePunch on [1]Hero.
+[2]Slime1 causes 78 damage to [1]Hero.
+[2]Slime2's turn (HP: 100, MP: 10000, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 0 damage to [1]Hero.
+[2]Slime3's turn (HP: 100, MP: 10000, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 0 damage to [1]Hero.
+[1]Hero's turn (HP: 9921, MP: 9820, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2 (2) [2]Slime3
+[1]Hero uses OnePunch on [2]Slime1.
+[1]Hero causes 287 damage to [2]Slime1.
+[2]Slime1 dies.
+[2]Slime2's turn (HP: 100, MP: 10000, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Slime2 uses OnePunch on [1]Hero.
+[2]Slime2 causes 291 damage to [1]Hero.
+[2]Slime3's turn (HP: 100, MP: 10000, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Slime3 attacks [1]Hero.
+[2]Slime3 causes 0 damage to [1]Hero.
+[1]Hero's turn (HP: 9630, MP: 9640, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+Select 1 targets: (0) [2]Slime2 (1) [2]Slime3
+[1]Hero uses OnePunch on [2]Slime3.
+[1]Hero causes 185 damage to [2]Slime3.
+[2]Slime3 dies.
+[2]Slime2's turn (HP: 100, MP: 9820, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 0 damage to [1]Hero.
+[1]Hero's turn (HP: 9630, MP: 9460, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[1]Hero uses OnePunch on [2]Slime2.
+[1]Hero causes 4 damage to [2]Slime2.
+[2]Slime2's turn (HP: 96, MP: 9820, STR: 0, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Slime2 attacks [1]Hero.
+[2]Slime2 causes 0 damage to [1]Hero.
+[1]Hero's turn (HP: 9630, MP: 9280, STR: 10, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[1]Hero uses OnePunch on [2]Slime2.
+[1]Hero causes 162 damage to [2]Slime2.
+[2]Slime2 dies.
+You win.

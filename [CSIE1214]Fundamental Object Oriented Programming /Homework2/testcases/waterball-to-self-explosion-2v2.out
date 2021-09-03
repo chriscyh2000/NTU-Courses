@@ -1,0 +1,80 @@
+[1]Hero's turn (HP: 1000, MP: 300, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) SelfExplosion
+[1]Hero uses Fireball on [2]Waterball, [2]Chaoyu.
+[1]Hero causes 50 damage to [2]Waterball.
+[1]Hero causes 50 damage to [2]Chaoyu.
+[1]GodTien's turn (HP: 1000, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Summon (2) SelfExplosion
+[1]GodTien uses SelfExplosion on [1]Hero, [2]Waterball, [2]Chaoyu.
+[1]GodTien causes 150 damage to [1]Hero.
+[1]GodTien causes 150 damage to [2]Waterball.
+[1]GodTien causes 150 damage to [2]Chaoyu.
+[1]GodTien dies.
+[2]Waterball's turn (HP: 9800, MP: 2000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Waterball uses SelfExplosion on [1]Hero, [2]Chaoyu.
+[2]Waterball causes 150 damage to [1]Hero.
+[2]Waterball causes 150 damage to [2]Chaoyu.
+[2]Waterball dies.
+[2]Chaoyu's turn (HP: 9650, MP: 2000, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu uses Petrochemical on [1]Hero.
+[1]Hero's turn (HP: 700, MP: 250, STR: 100, State: Petrochemical).
+[2]Chaoyu's turn (HP: 9650, MP: 1900, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu uses Fireball on [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 650, MP: 250, STR: 100, State: Petrochemical).
+[2]Chaoyu's turn (HP: 9650, MP: 1850, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 600, MP: 250, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) SelfExplosion
+[1]Hero uses Fireball on [2]Chaoyu.
+[1]Hero causes 50 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 9600, MP: 1850, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu uses Fireball on [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 550, MP: 200, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) SelfExplosion
+[1]Hero uses Fireball on [2]Chaoyu.
+[1]Hero causes 50 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 9550, MP: 1800, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu uses Petrochemical on [1]Hero.
+[1]Hero's turn (HP: 550, MP: 150, STR: 100, State: Petrochemical).
+[2]Chaoyu's turn (HP: 9550, MP: 1700, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 500, MP: 150, STR: 100, State: Petrochemical).
+[2]Chaoyu's turn (HP: 9550, MP: 1700, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu uses Fireball on [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 450, MP: 150, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) SelfExplosion
+[1]Hero uses Fireball on [2]Chaoyu.
+[1]Hero causes 50 damage to [2]Chaoyu.
+[2]Chaoyu's turn (HP: 9500, MP: 1650, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu attacks [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 400, MP: 100, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) SelfExplosion
+[1]Hero uses SelfHealing.
+[2]Chaoyu's turn (HP: 9500, MP: 1650, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu uses Fireball on [1]Hero.
+[2]Chaoyu causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 500, MP: 50, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical (5) SelfExplosion
+[1]Hero uses SelfHealing.
+[2]Chaoyu's turn (HP: 9500, MP: 1600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical (3) SelfExplosion
+[2]Chaoyu uses SelfExplosion on [1]Hero.
+[2]Chaoyu causes 150 damage to [1]Hero.
+[2]Chaoyu dies.
+You win.

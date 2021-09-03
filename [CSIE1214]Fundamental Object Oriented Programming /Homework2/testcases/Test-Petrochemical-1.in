@@ -1,0 +1,27 @@
+#START-TROOP-1
+Hero 999999 99999 30 Fireball Petrochemical
+#END-TROOP-1
+#START-TROOP-2
+A 1 100 15 Petrochemical
+B 1 100 15 Petrochemical
+C 1 100 15 Petrochemical
+D 1 100 15 Petrochemical
+E 1 100 15 Petrochemical
+#END-TROOP-2
+2
+0
+2
+1
+2
+2
+2
+3
+2
+4
+0
+0
+0
+0
+0
+0
+1

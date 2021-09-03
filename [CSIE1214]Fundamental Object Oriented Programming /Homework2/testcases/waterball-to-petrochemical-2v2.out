@@ -1,0 +1,42 @@
+[1]Hero's turn (HP: 300, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+Select 1 targets: (0) [2]Waterball (1) [2]Slime
+[1]Hero uses Petrochemical on [2]Waterball.
+[1]GodTien's turn (HP: 1000, MP: 500, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]GodTien uses Petrochemical on [2]Slime.
+[2]Waterball's turn (HP: 200, MP: 200, STR: 50, State: Petrochemical).
+[2]Slime's turn (HP: 200, MP: 200, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 300, MP: 400, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+[1]Hero uses Fireball on [2]Waterball, [2]Slime.
+[1]Hero causes 50 damage to [2]Waterball.
+[1]Hero causes 50 damage to [2]Slime.
+[1]GodTien's turn (HP: 1000, MP: 400, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]GodTien attacks [2]Slime.
+[1]GodTien causes 100 damage to [2]Slime.
+[2]Waterball's turn (HP: 150, MP: 200, STR: 50, State: Petrochemical).
+[2]Slime's turn (HP: 50, MP: 200, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 300, MP: 350, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+Select 1 targets: (0) [2]Waterball (1) [2]Slime
+[1]Hero uses Waterball on [2]Waterball.
+[1]Hero causes 120 damage to [2]Waterball.
+[1]GodTien's turn (HP: 1000, MP: 400, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]GodTien uses Petrochemical on [2]Slime.
+[2]Waterball's turn (HP: 30, MP: 200, STR: 50, State: Petrochemical).
+[2]Slime's turn (HP: 50, MP: 200, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 300, MP: 300, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing (4) Petrochemical
+Select 1 targets: (0) [2]Waterball (1) [2]Slime
+[1]Hero uses Waterball on [2]Waterball.
+[1]Hero causes 120 damage to [2]Waterball.
+[2]Waterball dies.
+[1]GodTien's turn (HP: 1000, MP: 300, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]GodTien attacks [2]Slime.
+[1]GodTien causes 100 damage to [2]Slime.
+[2]Slime dies.
+You win.

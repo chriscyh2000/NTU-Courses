@@ -1,0 +1,9 @@
+#START-TROOP-1
+Hero 999999 99999 30 SelfHealing Petrochemical
+#END-TROOP-1
+#START-TROOP-2
+A 1 100 15 Petrochemical
+#END-TROOP-2
+1
+1
+0

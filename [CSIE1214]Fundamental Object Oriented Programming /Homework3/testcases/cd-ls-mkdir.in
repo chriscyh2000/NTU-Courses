@@ -1,0 +1,13 @@
+mkdir c
+mkdir b1
+mkdir a1
+mkdir a7
+mkdir b2
+ls
+cd b1
+mkdir b2
+mkdir b3
+ls
+cd ..
+cd ..
+exit

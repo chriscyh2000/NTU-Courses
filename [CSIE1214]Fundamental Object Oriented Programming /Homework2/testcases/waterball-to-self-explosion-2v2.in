@@ -1,0 +1,14 @@
+#START-TROOP-1
+Hero 1000 300 100 Fireball Waterball SelfHealing Petrochemical SelfExplosion
+GodTien 1000 500 100 Summon SelfExplosion
+#END-TROOP-1
+#START-TROOP-2
+Waterball 10000 2000 50 Fireball Petrochemical SelfExplosion
+Chaoyu 10000 2000 50 Fireball Petrochemical SelfExplosion
+#END-TROOP-2
+1
+1
+1
+1
+3
+3

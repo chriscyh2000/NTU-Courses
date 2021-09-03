@@ -1,0 +1,15 @@
+#START-TROOP-1
+Hero 500 80 30 Waterball Fireball SelfHealing
+#END-TROOP-1
+#START-TROOP-2
+AI 200 80 10 Waterball
+#END-TROOP-2
+1
+1
+2
+0
+3
+2
+1
+0
+0

@@ -1,0 +1,12 @@
+#START-TROOP-1
+Hero 300 500 100 Fireball Waterball
+#END-TROOP-1
+#START-TROOP-2
+Slime1 200 200 50 Fireball
+Slime2 200 200 50 Fireball Waterball
+#END-TROOP-2
+1
+2
+0
+2
+0

@@ -1,0 +1,198 @@
+New round begins.
+Next turn: Waterball
+0    1    2    3    4    5    6    7     8    9    10   11   12
+C[3] C[4] C[5] C[6] C[7] C[8] C[9] C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[3].
+Next turn: Chaoyu
+0    1    2    3    4    5    6    7     8    9    10   11   12
+D[3] D[4] D[5] D[6] D[7] D[8] D[9] D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[3].
+Next turn: CCChang
+0    1    2    3    4    5    6    7     8    9    10   11   12
+H[3] H[4] H[5] H[6] H[7] H[8] H[9] H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[3].
+Next turn: GodTien
+0    1    2    3    4    5    6    7     8    9    10   11   12
+S[3] S[4] S[5] S[6] S[7] S[8] S[9] S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[3].
+Next turn: Waterball
+0    1    2    3    4    5    6     7    8    9    10   11
+C[4] C[5] C[6] C[7] C[8] C[9] C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[4].
+Next turn: Chaoyu
+0    1    2    3    4    5    6     7    8    9    10   11
+D[4] D[5] D[6] D[7] D[8] D[9] D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[4].
+Next turn: CCChang
+0    1    2    3    4    5    6     7    8    9    10   11
+H[4] H[5] H[6] H[7] H[8] H[9] H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[4].
+Next turn: GodTien
+0    1    2    3    4    5    6     7    8    9    10   11
+S[4] S[5] S[6] S[7] S[8] S[9] S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[4].
+Next turn: Waterball
+0    1    2    3    4    5     6    7    8    9    10
+C[5] C[6] C[7] C[8] C[9] C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[5].
+Next turn: Chaoyu
+0    1    2    3    4    5     6    7    8    9    10
+D[5] D[6] D[7] D[8] D[9] D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[5].
+Next turn: CCChang
+0    1    2    3    4    5     6    7    8    9    10
+H[5] H[6] H[7] H[8] H[9] H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[5].
+Next turn: GodTien
+0    1    2    3    4    5     6    7    8    9    10
+S[5] S[6] S[7] S[8] S[9] S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[5].
+Next turn: Waterball
+0    1    2    3    4     5    6    7    8    9
+C[6] C[7] C[8] C[9] C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[6].
+Next turn: Chaoyu
+0    1    2    3    4     5    6    7    8    9
+D[6] D[7] D[8] D[9] D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[6].
+Next turn: CCChang
+0    1    2    3    4     5    6    7    8    9
+H[6] H[7] H[8] H[9] H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[6].
+Next turn: GodTien
+0    1    2    3    4     5    6    7    8    9
+S[6] S[7] S[8] S[9] S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[6].
+Next turn: Waterball
+0    1    2    3     4    5    6    7    8
+C[7] C[8] C[9] C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[7].
+Next turn: Chaoyu
+0    1    2    3     4    5    6    7    8
+D[7] D[8] D[9] D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[7].
+Next turn: CCChang
+0    1    2    3     4    5    6    7    8
+H[7] H[8] H[9] H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[7].
+Next turn: GodTien
+0    1    2    3     4    5    6    7    8
+S[7] S[8] S[9] S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[7].
+Next turn: Waterball
+0    1    2     3    4    5    6    7
+C[8] C[9] C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[8].
+Next turn: Chaoyu
+0    1    2     3    4    5    6    7
+D[8] D[9] D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[8].
+Next turn: CCChang
+0    1    2     3    4    5    6    7
+H[8] H[9] H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[8].
+Next turn: GodTien
+0    1    2     3    4    5    6    7
+S[8] S[9] S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[8].
+Next turn: Waterball
+0    1     2    3    4    5    6
+C[9] C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[9].
+Next turn: Chaoyu
+0    1     2    3    4    5    6
+D[9] D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[9].
+Next turn: CCChang
+0    1     2    3    4    5    6
+H[9] H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[9].
+Next turn: GodTien
+0    1     2    3    4    5    6
+S[9] S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[9].
+Next turn: Waterball
+0     1    2    3    4    5
+C[10] C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[10].
+Next turn: Chaoyu
+0     1    2    3    4    5
+D[10] D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[10].
+Next turn: CCChang
+0     1    2    3    4    5
+H[10] H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[10].
+Next turn: GodTien
+0     1    2    3    4    5
+S[10] S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[10].
+Next turn: Waterball
+0    1    2    3    4
+C[J] C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[J].
+Next turn: Chaoyu
+0    1    2    3    4
+D[J] D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[J].
+Next turn: CCChang
+0    1    2    3    4
+H[J] H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[J].
+Next turn: GodTien
+0    1    2    3    4
+S[J] S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[J].
+Next turn: Waterball
+0    1    2    3
+C[Q] C[K] C[A] C[2]
+Player Waterball plays a single C[Q].
+Next turn: Chaoyu
+0    1    2    3
+D[Q] D[K] D[A] D[2]
+Player Chaoyu plays a single D[Q].
+Next turn: CCChang
+0    1    2    3
+H[Q] H[K] H[A] H[2]
+Player CCChang plays a single H[Q].
+Next turn: GodTien
+0    1    2    3
+S[Q] S[K] S[A] S[2]
+Player GodTien plays a single S[Q].
+Next turn: Waterball
+0    1    2
+C[K] C[A] C[2]
+Player Waterball plays a single C[K].
+Next turn: Chaoyu
+0    1    2
+D[K] D[A] D[2]
+Player Chaoyu plays a single D[K].
+Next turn: CCChang
+0    1    2
+H[K] H[A] H[2]
+Player CCChang plays a single H[K].
+Next turn: GodTien
+0    1    2
+S[K] S[A] S[2]
+Player GodTien plays a single S[K].
+Next turn: Waterball
+0    1
+C[A] C[2]
+Player Waterball plays a single C[A].
+Next turn: Chaoyu
+0    1
+D[A] D[2]
+Player Chaoyu plays a single D[A].
+Next turn: CCChang
+0    1
+H[A] H[2]
+Player CCChang plays a single H[A].
+Next turn: GodTien
+0    1
+S[A] S[2]
+Player GodTien plays a single S[A].
+Next turn: Waterball
+0
+C[2]
+Player Waterball plays a single C[2].
+Game over, the winner is Waterball.

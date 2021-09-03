@@ -1,0 +1,32 @@
+#START-TROOP-1
+Hero 5000 2000 100 Fireball OnePunch Cheerup Curse
+GodTien 2000 2000 100 OnePunch Waterball SelfHealing
+Starbucks 2000 2000 200 Petrochemical SelfHealing Summon
+#END-TROOP-1
+#START-TROOP-2
+Soldier1 300 200 50 Waterball
+Soldier2 300 200 50 Petrochemical
+Soldier3 300 200 50 SelfHealing
+Soldier4 300 200 50 Fireball
+Soldier5 300 200 50 OnePunch
+Soldier6 300 200 50 Cheerup
+Soldier7 300 200 50 Curse
+Soldier8 300 200 50 Fireball
+Soldier9 300 200 50 OnePunch
+Soldier10 300 200 50 Summon
+#END-TROOP-2
+4
+0
+2
+0
+4
+0
+2
+0
+1
+1
+3
+1, 2, 3
+3
+0, 1, 2
+1

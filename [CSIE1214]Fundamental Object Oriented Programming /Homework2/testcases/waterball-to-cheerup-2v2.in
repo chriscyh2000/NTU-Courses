@@ -1,0 +1,16 @@
+#START-TROOP-1
+Hero 300 950 100 Fireball Waterball Poison Petrochemical Cheerup
+GodTien 1000 500 100 Summon Cheerup Poison
+#END-TROOP-1
+#START-TROOP-2
+Waterball 200 500 50 Summon Cheerup Poison
+Chaoyu 200 500 50 Summon Cheerup Poison
+#END-TROOP-2
+5
+3
+0
+3
+2
+3
+1
+1

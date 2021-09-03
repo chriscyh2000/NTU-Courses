@@ -1,0 +1,18 @@
+mkdir a
+mkdir b
+mkdir c
+mkdir a
+rm abc
+cd b
+touch hello helloworld
+touch touch touch
+cd hello
+rm touch
+cat hello
+cat not-exists
+ls
+cd ..
+rm b
+cd ..
+ls
+exit

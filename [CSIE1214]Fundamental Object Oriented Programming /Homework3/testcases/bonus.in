@@ -1,0 +1,32 @@
+mkdir b
+ln b link-to-b
+cat link-to-b
+cd link-to-b
+cd ..
+ls
+rm b
+ls
+cd link-to-b
+mkdir b
+ls
+cd link-to-b
+touch hi hello
+ls
+cat hi
+cd ..
+rm link-to-b
+cd link-to-b
+ls
+ln b l1
+ln b l2
+ln abcde l3
+touch hello.txt hello
+ln hello.txt l3
+ls
+cd l1
+cd ..
+cd l2
+cd ..
+rm l1
+rm l2
+exit

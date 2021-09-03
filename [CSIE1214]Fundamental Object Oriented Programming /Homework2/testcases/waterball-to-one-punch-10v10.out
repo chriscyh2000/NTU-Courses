@@ -1,0 +1,749 @@
+[1]Hero's turn (HP: 2000, MP: 2000, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Soldier10
+[1]Hero uses Curse on [2]Soldier5.
+[1]GodTien's turn (HP: 2000, MP: 2000, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier6.
+[1]GodTien causes 120 damage to [2]Soldier6.
+[1]Starbucks's turn (HP: 2000, MP: 2000, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Waterball's turn (HP: 2000, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Waterball causes 50 damage to [2]Soldier1.
+[1]Waterball causes 50 damage to [2]Soldier2.
+[1]Waterball causes 50 damage to [2]Soldier3.
+[1]Waterball causes 50 damage to [2]Soldier4.
+[1]Waterball causes 50 damage to [2]Soldier5.
+[1]Waterball causes 50 damage to [2]Soldier6.
+[1]Waterball causes 50 damage to [2]Soldier7.
+[1]Waterball causes 50 damage to [2]Soldier8.
+[1]Waterball causes 50 damage to [2]Soldier9.
+[1]Waterball causes 50 damage to [2]Soldier10.
+[1]Chaoyu's turn (HP: 2000, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu uses OnePunch on [2]Soldier2.
+[1]Chaoyu causes 19 damage to [2]Soldier2.
+[1]CCChang's turn (HP: 2000, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang uses Cheerup on [1]Servant1, [1]Waterball, [1]Chaoyu.
+[1]Servant1's turn (HP: 2000, MP: 600, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 uses Curse on [2]Soldier2.
+[1]Servant2's turn (HP: 2000, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Servant2 causes 50 damage to [2]Soldier1.
+[1]Servant2 causes 50 damage to [2]Soldier2.
+[1]Servant2 causes 50 damage to [2]Soldier3.
+[1]Servant2 causes 50 damage to [2]Soldier4.
+[1]Servant2 causes 50 damage to [2]Soldier5.
+[1]Servant2 causes 50 damage to [2]Soldier6.
+[1]Servant2 causes 50 damage to [2]Soldier7.
+[1]Servant2 causes 50 damage to [2]Soldier8.
+[1]Servant2 causes 50 damage to [2]Soldier9.
+[1]Servant2 causes 50 damage to [2]Soldier10.
+[1]Servant3's turn (HP: 2000, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 attacks [2]Soldier5.
+[1]Servant3 causes 50 damage to [2]Soldier5.
+[1]Servant4's turn (HP: 2000, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 uses Petrochemical on [2]Soldier10.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier6.
+[1]Slime causes 50 damage to [2]Soldier6.
+[2]Soldier1's turn (HP: 1400, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 attacks [1]Servant2.
+[2]Soldier1 causes 50 damage to [1]Servant2.
+[2]Soldier2's turn (HP: 1381, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 uses Petrochemical on [1]Slime.
+[2]Soldier3's turn (HP: 1400, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 1400, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks, [1]Waterball, [1]Chaoyu, [1]CCChang, [1]Servant1, [1]Servant2, [1]Servant3, [1]Servant4, [1]Slime.
+[2]Soldier4 causes 50 damage to [1]Hero.
+[2]Soldier4 causes 50 damage to [1]GodTien.
+[2]Soldier4 causes 50 damage to [1]Starbucks.
+[2]Soldier4 causes 50 damage to [1]Waterball.
+[2]Soldier4 causes 50 damage to [1]Chaoyu.
+[2]Soldier4 causes 50 damage to [1]CCChang.
+[2]Soldier4 causes 50 damage to [1]Servant1.
+[2]Soldier4 causes 50 damage to [1]Servant2.
+[2]Soldier4 causes 50 damage to [1]Servant3.
+[2]Soldier4 causes 50 damage to [1]Servant4.
+[2]Soldier4 causes 50 damage to [1]Slime.
+[2]Soldier5's turn (HP: 1350, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfExplosion
+[2]Soldier5 attacks [1]Servant3.
+[2]Soldier5 causes 50 damage to [1]Servant3.
+[2]Soldier6's turn (HP: 1230, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 attacks [1]GodTien.
+[2]Soldier6 causes 50 damage to [1]GodTien.
+[2]Soldier7's turn (HP: 1400, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 attacks [1]Servant1.
+[2]Soldier7 causes 50 damage to [1]Servant1.
+[2]Soldier8's turn (HP: 1400, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 attacks [1]Servant2.
+[2]Soldier8 causes 50 damage to [1]Servant2.
+[2]Soldier9's turn (HP: 1400, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 uses OnePunch on [1]GodTien.
+[2]Soldier9 causes 186 damage to [1]GodTien.
+[2]Soldier10's turn (HP: 1400, MP: 600, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 1950, MP: 1900, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Soldier10
+[1]Hero uses Curse on [2]Soldier1.
+[1]GodTien's turn (HP: 1714, MP: 1950, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses SelfHealing.
+[1]Starbucks's turn (HP: 1950, MP: 1850, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Waterball's turn (HP: 1950, MP: 550, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Waterball causes 100 damage to [2]Soldier1.
+[1]Waterball causes 100 damage to [2]Soldier2.
+[1]Waterball causes 100 damage to [2]Soldier3.
+[1]Waterball causes 100 damage to [2]Soldier4.
+[1]Waterball causes 100 damage to [2]Soldier5.
+[1]Waterball causes 100 damage to [2]Soldier6.
+[1]Waterball causes 100 damage to [2]Soldier7.
+[1]Waterball causes 100 damage to [2]Soldier8.
+[1]Waterball causes 100 damage to [2]Soldier9.
+[1]Waterball causes 100 damage to [2]Soldier10.
+[1]Chaoyu's turn (HP: 1950, MP: 420, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu attacks [2]Soldier3.
+[1]Chaoyu causes 100 damage to [2]Soldier3.
+[1]CCChang's turn (HP: 1950, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang uses Summon.
+[1]Servant1's turn (HP: 1900, MP: 500, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 attacks [2]Soldier2.
+[1]Servant1 causes 100 damage to [2]Soldier2.
+[1]Servant2's turn (HP: 1850, MP: 550, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Servant2 causes 50 damage to [2]Soldier1.
+[1]Servant2 causes 50 damage to [2]Soldier2.
+[1]Servant2 causes 50 damage to [2]Soldier3.
+[1]Servant2 causes 50 damage to [2]Soldier4.
+[1]Servant2 causes 50 damage to [2]Soldier5.
+[1]Servant2 causes 50 damage to [2]Soldier6.
+[1]Servant2 causes 50 damage to [2]Soldier7.
+[1]Servant2 causes 50 damage to [2]Soldier8.
+[1]Servant2 causes 50 damage to [2]Soldier9.
+[1]Servant2 causes 50 damage to [2]Soldier10.
+[1]Servant3's turn (HP: 1900, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 uses OnePunch on [2]Soldier2.
+[1]Servant3 causes 232 damage to [2]Soldier2.
+[1]Servant4's turn (HP: 1950, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 attacks [2]Soldier7.
+[1]Servant4 causes 50 damage to [2]Soldier7.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Petrochemical).
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier6.
+[1]Slime causes 50 damage to [2]Soldier6.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier1.
+[1]Slime causes 50 damage to [2]Soldier1.
+[2]Soldier1's turn (HP: 1200, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 uses Waterball on [1]Servant2.
+[2]Soldier1 causes 120 damage to [1]Servant2.
+[2]Soldier2's turn (HP: 899, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]Soldier2 uses Petrochemical on [1]Starbucks.
+[2]Soldier3's turn (HP: 1300, MP: 550, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 1250, MP: 550, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier4 attacks [1]Servant4.
+[2]Soldier4 causes 50 damage to [1]Servant4.
+[2]Soldier5's turn (HP: 1200, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfExplosion
+[2]Soldier5 attacks [1]Hero.
+[2]Soldier5 causes 50 damage to [1]Hero.
+[2]Soldier6's turn (HP: 1030, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 attacks [1]Servant4.
+[2]Soldier6 causes 50 damage to [1]Servant4.
+[2]Soldier7's turn (HP: 1200, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 attacks [1]Servant3.
+[2]Soldier7 causes 50 damage to [1]Servant3.
+[2]Soldier8's turn (HP: 1250, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks, [1]Waterball, [1]Chaoyu, [1]CCChang, [1]Servant1, [1]Servant2, [1]Servant3, [1]Servant4, [1]Slime, [1]Slime, [1]Slime.
+[2]Soldier8 causes 50 damage to [1]Hero.
+[2]Soldier8 causes 50 damage to [1]GodTien.
+[2]Soldier8 causes 50 damage to [1]Starbucks.
+[2]Soldier8 causes 50 damage to [1]Waterball.
+[2]Soldier8 causes 50 damage to [1]Chaoyu.
+[2]Soldier8 causes 50 damage to [1]CCChang.
+[2]Soldier8 causes 50 damage to [1]Servant1.
+[2]Soldier8 causes 50 damage to [1]Servant2.
+[2]Soldier8 causes 50 damage to [1]Servant3.
+[2]Soldier8 causes 50 damage to [1]Servant4.
+[2]Soldier8 causes 50 damage to [1]Slime.
+[1]Slime dies.
+[2]Soldier8 causes 50 damage to [1]Slime.
+[2]Soldier8 causes 50 damage to [1]Slime.
+[2]Soldier9's turn (HP: 1250, MP: 420, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 uses OnePunch on [1]CCChang.
+[2]Soldier9 causes 243 damage to [1]CCChang.
+[2]Soldier10's turn (HP: 1250, MP: 600, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 1850, MP: 1800, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Soldier10
+[1]Hero uses OnePunch on [2]Soldier1.
+[1]Hero causes 141 damage to [2]Soldier1.
+[1]GodTien's turn (HP: 1814, MP: 1900, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier2.
+[1]GodTien causes 120 damage to [2]Soldier2.
+[1]Starbucks's turn (HP: 1900, MP: 1700, STR: 200, State: Petrochemical).
+[1]Waterball's turn (HP: 1900, MP: 500, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball attacks [2]Soldier7.
+[1]Waterball causes 100 damage to [2]Soldier7.
+[1]Chaoyu's turn (HP: 1900, MP: 420, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu uses OnePunch on [2]Soldier10.
+[1]Chaoyu causes 63 damage to [2]Soldier10.
+[1]CCChang's turn (HP: 1657, MP: 350, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]CCChang causes 50 damage to [2]Soldier1.
+[1]CCChang causes 50 damage to [2]Soldier2.
+[1]CCChang causes 50 damage to [2]Soldier3.
+[1]CCChang causes 50 damage to [2]Soldier4.
+[1]CCChang causes 50 damage to [2]Soldier5.
+[1]CCChang causes 50 damage to [2]Soldier6.
+[1]CCChang causes 50 damage to [2]Soldier7.
+[1]CCChang causes 50 damage to [2]Soldier8.
+[1]CCChang causes 50 damage to [2]Soldier9.
+[1]CCChang causes 50 damage to [2]Soldier10.
+[1]Servant1's turn (HP: 1850, MP: 500, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 uses Petrochemical on [2]Soldier2.
+[1]Servant2's turn (HP: 1680, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier5, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Servant2 causes 50 damage to [2]Soldier1.
+[1]Servant2 causes 50 damage to [2]Soldier2.
+[1]Servant2 causes 50 damage to [2]Soldier3.
+[1]Servant2 causes 50 damage to [2]Soldier4.
+[1]Servant2 causes 50 damage to [2]Soldier5.
+[1]Servant2 causes 50 damage to [2]Soldier6.
+[1]Servant2 causes 50 damage to [2]Soldier7.
+[1]Servant2 causes 50 damage to [2]Soldier8.
+[1]Servant2 causes 50 damage to [2]Soldier9.
+[1]Servant2 causes 50 damage to [2]Soldier10.
+[1]Servant3's turn (HP: 1800, MP: 420, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 attacks [2]Soldier4.
+[1]Servant3 causes 50 damage to [2]Soldier4.
+[1]Servant4's turn (HP: 1800, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 uses Petrochemical on [2]Soldier4.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier9.
+[1]Slime causes 50 damage to [2]Soldier9.
+[1]Slime's turn (HP: 50, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 50 damage to [2]Soldier3.
+[2]Soldier1's turn (HP: 959, MP: 550, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 attacks [1]Servant2.
+[2]Soldier1 causes 50 damage to [1]Servant2.
+[2]Soldier2's turn (HP: 679, MP: 400, STR: 50, State: Petrochemical).
+[2]Soldier3's turn (HP: 1300, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Waterball.
+[2]Soldier3 causes 50 damage to [1]Waterball.
+[2]Soldier4's turn (HP: 1100, MP: 550, STR: 50, State: Petrochemical).
+[2]Soldier5's turn (HP: 1100, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfExplosion
+[2]Soldier5 uses SelfExplosion on [1]Hero, [1]GodTien, [1]Starbucks, [1]Waterball, [1]Chaoyu, [1]CCChang, [1]Servant1, [1]Servant2, [1]Servant3, [1]Servant4, [1]Slime, [1]Slime, [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[2]Soldier5 causes 150 damage to [1]Hero.
+[2]Soldier5 causes 150 damage to [1]GodTien.
+[2]Soldier5 causes 150 damage to [1]Starbucks.
+[2]Soldier5 causes 150 damage to [1]Waterball.
+[2]Soldier5 causes 150 damage to [1]Chaoyu.
+[2]Soldier5 causes 150 damage to [1]CCChang.
+[2]Soldier5 causes 150 damage to [1]Servant1.
+[2]Soldier5 causes 150 damage to [1]Servant2.
+[2]Soldier5 causes 150 damage to [1]Servant3.
+[2]Soldier5 causes 150 damage to [1]Servant4.
+[2]Soldier5 causes 150 damage to [1]Slime.
+[1]Slime dies.
+[2]Soldier5 causes 150 damage to [1]Slime.
+[1]Slime dies.
+[2]Soldier5 causes 150 damage to [2]Soldier1.
+[2]Soldier5 causes 150 damage to [2]Soldier2.
+[2]Soldier5 causes 150 damage to [2]Soldier3.
+[2]Soldier5 causes 150 damage to [2]Soldier4.
+[2]Soldier5 causes 150 damage to [2]Soldier6.
+[2]Soldier5 causes 150 damage to [2]Soldier7.
+[2]Soldier5 causes 150 damage to [2]Soldier8.
+[2]Soldier5 causes 150 damage to [2]Soldier9.
+[2]Soldier5 causes 150 damage to [2]Soldier10.
+[2]Soldier5 dies.
+[2]Soldier6's turn (HP: 780, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 uses Cheerup on [2]Soldier7, [2]Soldier1, [2]Soldier8.
+[2]Soldier7's turn (HP: 850, MP: 600, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 uses Curse on [1]CCChang.
+[2]Soldier8's turn (HP: 1000, MP: 550, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 attacks [1]CCChang.
+[2]Soldier8 causes 100 damage to [1]CCChang.
+[2]Soldier9's turn (HP: 950, MP: 240, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Starbucks.
+[2]Soldier9 causes 50 damage to [1]Starbucks.
+[2]Soldier10's turn (HP: 937, MP: 600, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 2100, MP: 1620, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 3 targets: (0) [1]GodTien (1) [1]Starbucks (2) [1]Waterball (3) [1]Chaoyu (4) [1]CCChang (5) [1]Servant1 (6) [1]Servant2 (7) [1]Servant3 (8) [1]Servant4
+[1]Hero uses Cheerup on [1]GodTien, [1]Waterball, [1]Chaoyu.
+[1]GodTien's turn (HP: 1664, MP: 1850, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier2.
+[1]GodTien causes 170 damage to [2]Soldier2.
+[1]Starbucks's turn (HP: 1700, MP: 1700, STR: 200, State: Petrochemical).
+[1]Waterball's turn (HP: 1700, MP: 500, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Waterball causes 100 damage to [2]Soldier1.
+[1]Waterball causes 100 damage to [2]Soldier2.
+[1]Waterball causes 100 damage to [2]Soldier3.
+[1]Waterball causes 100 damage to [2]Soldier4.
+[1]Waterball causes 100 damage to [2]Soldier6.
+[1]Waterball causes 100 damage to [2]Soldier7.
+[1]Waterball causes 100 damage to [2]Soldier8.
+[1]Waterball causes 100 damage to [2]Soldier9.
+[1]Waterball causes 100 damage to [2]Soldier10.
+[1]Chaoyu's turn (HP: 1750, MP: 240, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu uses OnePunch on [2]Soldier8.
+[1]Chaoyu causes 107 damage to [2]Soldier8.
+[1]CCChang's turn (HP: 1407, MP: 300, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang uses Cheerup on [1]Servant1, [1]Starbucks, [1]Servant3.
+[1]Servant1's turn (HP: 1700, MP: 400, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 uses Curse on [2]Soldier10.
+[1]Servant2's turn (HP: 1480, MP: 450, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses SelfHealing.
+[1]Servant3's turn (HP: 1650, MP: 420, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 uses OnePunch on [2]Soldier8.
+[1]Servant3 causes 236 damage to [2]Soldier8.
+[1]Servant4's turn (HP: 1650, MP: 400, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 attacks [2]Soldier6.
+[1]Servant4 causes 50 damage to [2]Soldier6.
+[2]Soldier1's turn (HP: 709, MP: 550, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Waterball
+[2]Soldier1 uses Waterball on [1]Starbucks.
+[2]Soldier1 causes 170 damage to [1]Starbucks.
+[2]Soldier2's turn (HP: 259, MP: 400, STR: 50, State: Petrochemical).
+[2]Soldier3's turn (HP: 1050, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Servant1.
+[2]Soldier3 causes 50 damage to [1]Servant1.
+[2]Soldier4's turn (HP: 850, MP: 550, STR: 50, State: Petrochemical).
+[2]Soldier6's turn (HP: 630, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 attacks [1]Chaoyu.
+[2]Soldier6 causes 50 damage to [1]Chaoyu.
+[2]Soldier7's turn (HP: 750, MP: 500, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 uses Curse on [1]Waterball.
+[2]Soldier8's turn (HP: 557, MP: 550, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 attacks [1]GodTien.
+[2]Soldier8 causes 100 damage to [1]GodTien.
+[2]Soldier9's turn (HP: 850, MP: 240, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 uses OnePunch on [1]Servant2.
+[2]Soldier9 causes 30 damage to [1]Servant2.
+[2]Soldier10's turn (HP: 837, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Soldier10 attacks [1]Hero.
+[2]Soldier10 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 2050, MP: 1520, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 3 targets: (0) [1]GodTien (1) [1]Starbucks (2) [1]Waterball (3) [1]Chaoyu (4) [1]CCChang (5) [1]Servant1 (6) [1]Servant2 (7) [1]Servant3 (8) [1]Servant4
+[1]Hero uses Cheerup on [1]CCChang, [1]Servant1, [1]Servant2.
+[1]GodTien's turn (HP: 1564, MP: 1800, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien attacks [2]Soldier8.
+[1]GodTien causes 150 damage to [2]Soldier8.
+[1]Starbucks's turn (HP: 1530, MP: 1700, STR: 200, State: Cheerup).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses SelfHealing.
+[1]Waterball's turn (HP: 1700, MP: 450, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Petrochemical on [2]Soldier1.
+[1]Chaoyu's turn (HP: 1700, MP: 60, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu attacks [2]Soldier9.
+[1]Chaoyu causes 100 damage to [2]Soldier9.
+[1]CCChang's turn (HP: 1407, MP: 200, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang uses Cheerup on [1]Chaoyu, [1]Hero, [1]Waterball.
+[1]Servant1's turn (HP: 1650, MP: 300, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 uses Curse on [2]Soldier9.
+[1]Servant2's turn (HP: 1600, MP: 400, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses SelfHealing.
+[1]Servant3's turn (HP: 1650, MP: 240, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Servant3 causes 100 damage to [2]Soldier1.
+[1]Servant3 causes 100 damage to [2]Soldier2.
+[1]Servant3 causes 100 damage to [2]Soldier3.
+[1]Servant3 causes 100 damage to [2]Soldier4.
+[1]Servant3 causes 100 damage to [2]Soldier6.
+[1]Servant3 causes 100 damage to [2]Soldier7.
+[1]Servant3 causes 100 damage to [2]Soldier8.
+[1]Servant3 causes 100 damage to [2]Soldier9.
+[1]Servant3 causes 100 damage to [2]Soldier10.
+[1]Servant4's turn (HP: 1650, MP: 400, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 uses Petrochemical on [2]Soldier1.
+[2]Soldier1's turn (HP: 609, MP: 500, STR: 50, State: Petrochemical).
+[2]Soldier2's turn (HP: 159, MP: 400, STR: 50, State: Petrochemical).
+[2]Soldier3's turn (HP: 950, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Servant1.
+[2]Soldier3 causes 50 damage to [1]Servant1.
+[2]Soldier4's turn (HP: 750, MP: 550, STR: 50, State: Petrochemical).
+[2]Soldier6's turn (HP: 530, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup
+[2]Soldier6 attacks [1]Starbucks.
+[2]Soldier6 causes 50 damage to [1]Starbucks.
+[2]Soldier7's turn (HP: 650, MP: 400, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 uses Curse on [1]CCChang.
+[2]Soldier8's turn (HP: 307, MP: 550, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball
+[2]Soldier8 uses Fireball on [1]Hero, [1]GodTien, [1]Starbucks, [1]Waterball, [1]Chaoyu, [1]CCChang, [1]Servant1, [1]Servant2, [1]Servant3, [1]Servant4.
+[2]Soldier8 causes 100 damage to [1]Hero.
+[2]Soldier8 causes 100 damage to [1]GodTien.
+[2]Soldier8 causes 100 damage to [1]Starbucks.
+[2]Soldier8 causes 100 damage to [1]Waterball.
+[2]Soldier8 causes 100 damage to [1]Chaoyu.
+[2]Soldier8 causes 100 damage to [1]CCChang.
+[2]Soldier8 causes 100 damage to [1]Servant1.
+[2]Soldier8 causes 100 damage to [1]Servant2.
+[2]Soldier8 causes 100 damage to [1]Servant3.
+[2]Soldier8 causes 100 damage to [1]Servant4.
+[2]Soldier9's turn (HP: 650, MP: 60, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Chaoyu.
+[2]Soldier9 causes 50 damage to [1]Chaoyu.
+[2]Soldier10's turn (HP: 737, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Soldier10 attacks [1]Servant2.
+[2]Soldier10 causes 50 damage to [1]Servant2.
+[1]Hero's turn (HP: 1950, MP: 1420, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+[1]Hero uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Hero causes 100 damage to [2]Soldier1.
+[1]Hero causes 100 damage to [2]Soldier2.
+[1]Hero causes 100 damage to [2]Soldier3.
+[1]Hero causes 100 damage to [2]Soldier4.
+[1]Hero causes 100 damage to [2]Soldier6.
+[1]Hero causes 100 damage to [2]Soldier7.
+[1]Hero causes 100 damage to [2]Soldier8.
+[1]Hero causes 100 damage to [2]Soldier9.
+[1]Hero causes 100 damage to [2]Soldier10.
+[1]GodTien's turn (HP: 1464, MP: 1800, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses SelfHealing.
+[1]Starbucks's turn (HP: 1530, MP: 1650, STR: 200, State: Cheerup).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses SelfHealing.
+[1]Waterball's turn (HP: 1600, MP: 350, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball attacks [2]Soldier9.
+[1]Waterball causes 100 damage to [2]Soldier9.
+[1]Chaoyu's turn (HP: 1550, MP: 60, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu attacks [2]Soldier7.
+[1]Chaoyu causes 100 damage to [2]Soldier7.
+[1]CCChang's turn (HP: 1307, MP: 100, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang uses Cheerup on [1]Hero, [1]GodTien, [1]Servant1.
+[1]Servant1's turn (HP: 1500, MP: 200, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 uses Petrochemical on [2]Soldier4.
+[1]Servant2's turn (HP: 1600, MP: 350, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses Fireball on [2]Soldier1, [2]Soldier2, [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier7, [2]Soldier8, [2]Soldier9, [2]Soldier10.
+[1]Servant2 causes 100 damage to [2]Soldier1.
+[1]Servant2 causes 100 damage to [2]Soldier2.
+[2]Soldier2 dies.
+[1]Servant2 causes 100 damage to [2]Soldier3.
+[1]Servant2 causes 100 damage to [2]Soldier4.
+[1]Servant2 causes 100 damage to [2]Soldier6.
+[1]Servant2 causes 100 damage to [2]Soldier7.
+[1]Servant2 causes 100 damage to [2]Soldier8.
+[1]Servant2 causes 100 damage to [2]Soldier9.
+[1]Servant2 causes 100 damage to [2]Soldier10.
+[1]Servant3's turn (HP: 1550, MP: 190, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 uses OnePunch on [2]Soldier8.
+[1]Servant3 causes 242 damage to [2]Soldier8.
+[2]Soldier8 dies.
+[1]Servant4's turn (HP: 1550, MP: 300, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 uses Petrochemical on [2]Soldier6.
+[2]Soldier1's turn (HP: 409, MP: 500, STR: 50, State: Petrochemical).
+[2]Soldier3's turn (HP: 750, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Chaoyu.
+[2]Soldier3 causes 50 damage to [1]Chaoyu.
+[2]Soldier4's turn (HP: 550, MP: 550, STR: 50, State: Petrochemical).
+[2]Soldier6's turn (HP: 330, MP: 500, STR: 50, State: Petrochemical).
+[2]Soldier7's turn (HP: 350, MP: 300, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse
+[2]Soldier7 uses Curse on [1]GodTien.
+[2]Soldier9's turn (HP: 350, MP: 60, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]GodTien.
+[2]Soldier9 causes 50 damage to [1]GodTien.
+[2]Soldier10's turn (HP: 537, MP: 600, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[2]Soldier10 uses Summon.
+[2]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime attacks [1]Servant1.
+[2]Slime causes 50 damage to [1]Servant1.
+[1]Hero's turn (HP: 1950, MP: 1370, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+[1]Hero uses Fireball on [2]Soldier1, [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier7, [2]Soldier9, [2]Soldier10, [2]Slime.
+[1]Hero causes 100 damage to [2]Soldier1.
+[1]Hero causes 100 damage to [2]Soldier3.
+[1]Hero causes 100 damage to [2]Soldier4.
+[1]Hero causes 100 damage to [2]Soldier6.
+[1]Hero causes 100 damage to [2]Soldier7.
+[1]Hero causes 100 damage to [2]Soldier9.
+[1]Hero causes 100 damage to [2]Soldier10.
+[1]Hero causes 100 damage to [2]Slime.
+[2]Slime dies.
+[1]GodTien's turn (HP: 1564, MP: 1750, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien attacks [2]Soldier10.
+[1]GodTien causes 150 damage to [2]Soldier10.
+[1]Starbucks's turn (HP: 1680, MP: 1600, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Summon.
+[1]Waterball's turn (HP: 1600, MP: 350, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Fireball on [2]Soldier1, [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier7, [2]Soldier9, [2]Soldier10.
+[1]Waterball causes 100 damage to [2]Soldier1.
+[1]Waterball causes 100 damage to [2]Soldier3.
+[1]Waterball causes 100 damage to [2]Soldier4.
+[1]Waterball causes 100 damage to [2]Soldier6.
+[1]Waterball causes 100 damage to [2]Soldier7.
+[1]Waterball causes 100 damage to [2]Soldier9.
+[1]Waterball causes 100 damage to [2]Soldier10.
+[1]Chaoyu's turn (HP: 1500, MP: 60, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu attacks [2]Soldier3.
+[1]Chaoyu causes 100 damage to [2]Soldier3.
+[1]CCChang's turn (HP: 1307, MP: 0, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang attacks [2]Soldier7.
+[1]CCChang causes 100 damage to [2]Soldier7.
+[1]Servant1's turn (HP: 1850, MP: 100, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 attacks [2]Soldier3.
+[1]Servant1 causes 100 damage to [2]Soldier3.
+[1]Servant2's turn (HP: 1600, MP: 300, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses SelfHealing.
+[1]Servant3's turn (HP: 1550, MP: 10, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 attacks [2]Soldier7.
+[1]Servant3 causes 50 damage to [2]Soldier7.
+[2]Soldier7 dies.
+[1]Servant4's turn (HP: 1550, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 uses Petrochemical on [2]Soldier10.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 50 damage to [2]Soldier3.
+[2]Soldier1's turn (HP: 209, MP: 500, STR: 50, State: Petrochemical).
+[2]Soldier3's turn (HP: 300, MP: 500, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 350, MP: 550, STR: 50, State: Petrochemical).
+[2]Soldier6's turn (HP: 130, MP: 500, STR: 50, State: Petrochemical).
+[2]Soldier9's turn (HP: 150, MP: 60, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch
+[2]Soldier9 attacks [1]Waterball.
+[2]Soldier9 causes 50 damage to [1]Waterball.
+[2]Soldier10's turn (HP: 187, MP: 450, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 1950, MP: 1320, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier3 (2) [2]Soldier4 (3) [2]Soldier6 (4) [2]Soldier9 (5) [2]Soldier10
+[1]Hero uses OnePunch on [2]Soldier1.
+[1]Hero causes 123 damage to [2]Soldier1.
+[1]GodTien's turn (HP: 1564, MP: 1750, STR: 100, State: Cheerup).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses OnePunch on [2]Soldier1.
+[1]GodTien causes 151 damage to [2]Soldier1.
+[2]Soldier1 dies.
+[1]Starbucks's turn (HP: 1680, MP: 1450, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Petrochemical on [2]Soldier6.
+[1]Waterball's turn (HP: 1550, MP: 300, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Petrochemical on [2]Soldier9.
+[1]Chaoyu's turn (HP: 1500, MP: 60, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu attacks [2]Soldier9.
+[1]Chaoyu causes 50 damage to [2]Soldier9.
+[1]CCChang's turn (HP: 1307, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang attacks [2]Soldier4.
+[1]CCChang causes 50 damage to [2]Soldier4.
+[1]Servant1's turn (HP: 1850, MP: 100, STR: 50, State: Cheerup).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 uses Petrochemical on [2]Soldier4.
+[1]Servant2's turn (HP: 1750, MP: 250, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses SelfHealing.
+[1]Servant3's turn (HP: 1550, MP: 10, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 attacks [2]Soldier10.
+[1]Servant3 causes 50 damage to [2]Soldier10.
+[1]Servant4's turn (HP: 1550, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 attacks [2]Soldier3.
+[1]Servant4 causes 50 damage to [2]Soldier3.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 50 damage to [2]Soldier3.
+[2]Soldier3's turn (HP: 350, MP: 450, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 uses SelfHealing.
+[2]Soldier4's turn (HP: 300, MP: 550, STR: 50, State: Petrochemical).
+[2]Soldier6's turn (HP: 130, MP: 500, STR: 50, State: Petrochemical).
+[2]Soldier9's turn (HP: 100, MP: 60, STR: 50, State: Petrochemical).
+[2]Soldier10's turn (HP: 137, MP: 450, STR: 50, State: Petrochemical).
+[1]Hero's turn (HP: 2450, MP: 1140, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+[1]Hero uses Fireball on [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier9, [2]Soldier10.
+[1]Hero causes 50 damage to [2]Soldier3.
+[1]Hero causes 50 damage to [2]Soldier4.
+[1]Hero causes 50 damage to [2]Soldier6.
+[1]Hero causes 50 damage to [2]Soldier9.
+[1]Hero causes 50 damage to [2]Soldier10.
+[1]GodTien's turn (HP: 1564, MP: 1570, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier4.
+[1]GodTien causes 120 damage to [2]Soldier4.
+[1]Starbucks's turn (HP: 1680, MP: 1350, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses SelfHealing.
+[1]Waterball's turn (HP: 1550, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Fireball on [2]Soldier3, [2]Soldier4, [2]Soldier6, [2]Soldier9, [2]Soldier10.
+[1]Waterball causes 50 damage to [2]Soldier3.
+[1]Waterball causes 50 damage to [2]Soldier4.
+[1]Waterball causes 50 damage to [2]Soldier6.
+[1]Waterball causes 50 damage to [2]Soldier9.
+[2]Soldier9 dies.
+[1]Waterball causes 50 damage to [2]Soldier10.
+[1]Chaoyu's turn (HP: 1500, MP: 60, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu attacks [2]Soldier6.
+[1]Chaoyu causes 50 damage to [2]Soldier6.
+[2]Soldier6 dies.
+[1]CCChang's turn (HP: 1307, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang attacks [2]Soldier4.
+[1]CCChang causes 50 damage to [2]Soldier4.
+[1]Servant1's turn (HP: 1910, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Curse (2) Petrochemical
+[1]Servant1 attacks [2]Soldier3.
+[1]Servant1 causes 50 damage to [2]Soldier3.
+[1]Servant2's turn (HP: 1900, MP: 200, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) SelfHealing
+[1]Servant2 uses SelfHealing.
+[1]Servant3's turn (HP: 1550, MP: 10, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Fireball
+[1]Servant3 attacks [2]Soldier10.
+[1]Servant3 causes 50 damage to [2]Soldier10.
+[2]Soldier10 dies.
+[1]Servant4's turn (HP: 1550, MP: 100, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[1]Servant4 attacks [2]Soldier4.
+[1]Servant4 causes 50 damage to [2]Soldier4.
+[2]Soldier4 dies.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Soldier3.
+[1]Slime causes 50 damage to [2]Soldier3.
+[2]Soldier3's turn (HP: 300, MP: 400, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) SelfHealing
+[2]Soldier3 attacks [1]Hero.
+[2]Soldier3 causes 50 damage to [1]Hero.
+[1]Hero's turn (HP: 2400, MP: 1090, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
+[1]Hero uses OnePunch on [2]Soldier3.
+[1]Hero causes 89 damage to [2]Soldier3.
+[1]GodTien's turn (HP: 1564, MP: 1520, STR: 100, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
+[1]GodTien uses Waterball on [2]Soldier3.
+[1]GodTien causes 120 damage to [2]Soldier3.
+[1]Starbucks's turn (HP: 1830, MP: 1300, STR: 200, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical (2) SelfHealing (3) Summon
+[1]Starbucks uses Petrochemical on [2]Soldier3.
+[1]Waterball's turn (HP: 1550, MP: 150, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Waterball uses Petrochemical on [2]Soldier3.
+[1]Chaoyu's turn (HP: 1500, MP: 60, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) OnePunch (2) Curse (3) Summon
+[1]Chaoyu attacks [2]Soldier3.
+[1]Chaoyu causes 50 damage to [2]Soldier3.
+[1]CCChang's turn (HP: 1307, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack (1) Cheerup (2) Fireball (3) Summon
+[1]CCChang attacks [2]Soldier3.
+[1]CCChang causes 50 damage to [2]Soldier3.
+[2]Soldier3 dies.
+You win.

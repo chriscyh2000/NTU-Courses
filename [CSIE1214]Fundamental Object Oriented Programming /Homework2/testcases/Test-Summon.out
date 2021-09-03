@@ -1,0 +1,120 @@
+[1]Hero's turn (HP: 500, MP: 10000, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[2]Slime1's turn (HP: 950, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 0 damage to [1]Hero.
+[1]Hero's turn (HP: 500, MP: 9850, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[2]Slime1's turn (HP: 850, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 0 damage to [1]Hero.
+[1]Hero's turn (HP: 500, MP: 9700, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[2]Slime1's turn (HP: 700, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Hero.
+[2]Slime1 causes 0 damage to [1]Hero.
+[1]Hero's turn (HP: 500, MP: 9550, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[2]Slime1's turn (HP: 500, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Slime.
+[2]Slime1 causes 0 damage to [1]Slime.
+[1]Hero's turn (HP: 500, MP: 9400, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[2]Slime1's turn (HP: 250, MP: 0, STR: 0, State: Normal).
+Select an action: (0) Basic Attack
+[2]Slime1 attacks [1]Slime.
+[2]Slime1 causes 0 damage to [1]Slime.
+[1]Hero's turn (HP: 500, MP: 9250, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Summon
+[1]Hero uses Summon.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[1]Slime's turn (HP: 100, MP: 0, STR: 50, State: Normal).
+Select an action: (0) Basic Attack
+[1]Slime attacks [2]Slime1.
+[1]Slime causes 50 damage to [2]Slime1.
+[2]Slime1 dies.
+You win.

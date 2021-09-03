@@ -1,0 +1,258 @@
+[1]Hero's turn (HP: 999999, MP: 99999, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]A (1) [2]B (2) [2]C (3) [2]D (4) [2]E
+[1]Hero uses Petrochemical on [2]A.
+[2]A's turn (HP: 1, MP: 100, STR: 15, State: Petrochemical).
+[2]B's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B uses Petrochemical on [1]Hero.
+[2]C's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C uses Petrochemical on [1]Hero.
+[2]D's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D uses Petrochemical on [1]Hero.
+[2]E's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999984, MP: 99899, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 100, STR: 15, State: Petrochemical).
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999924, MP: 99899, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 100, STR: 15, State: Petrochemical).
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E uses Petrochemical on [1]Hero.
+[1]Hero's turn (HP: 999879, MP: 99899, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999804, MP: 99899, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 100, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A uses Petrochemical on [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999744, MP: 99899, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999669, MP: 99899, STR: 30, State: Petrochemical).
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999594, MP: 99899, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]A (1) [2]B (2) [2]C (3) [2]D (4) [2]E
+[1]Hero uses Petrochemical on [2]B.
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999534, MP: 99799, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]A (1) [2]B (2) [2]C (3) [2]D (4) [2]E
+[1]Hero uses Petrochemical on [2]C.
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999489, MP: 99699, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]A (1) [2]B (2) [2]C (3) [2]D (4) [2]E
+[1]Hero uses Petrochemical on [2]D.
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999459, MP: 99599, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]A (1) [2]B (2) [2]C (3) [2]D (4) [2]E
+[1]Hero uses Petrochemical on [2]E.
+[2]A's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]A attacks [1]Hero.
+[2]A causes 15 damage to [1]Hero.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[1]Hero's turn (HP: 999429, MP: 99499, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]A (1) [2]B (2) [2]C (3) [2]D (4) [2]E
+[1]Hero attacks [2]A.
+[1]Hero causes 30 damage to [2]A.
+[2]A dies.
+[2]B's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]B attacks [1]Hero.
+[2]B causes 15 damage to [1]Hero.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[1]Hero's turn (HP: 999399, MP: 99499, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]B (1) [2]C (2) [2]D (3) [2]E
+[1]Hero attacks [2]B.
+[1]Hero causes 30 damage to [2]B.
+[2]B dies.
+[2]C's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]C attacks [1]Hero.
+[2]C causes 15 damage to [1]Hero.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Petrochemical).
+[1]Hero's turn (HP: 999369, MP: 99499, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+Select 1 targets: (0) [2]C (1) [2]D (2) [2]E
+[1]Hero attacks [2]C.
+[1]Hero causes 30 damage to [2]C.
+[2]C dies.
+[2]D's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]D attacks [1]Hero.
+[2]D causes 15 damage to [1]Hero.
+[2]E's turn (HP: 1, MP: 0, STR: 15, State: Normal).
+Select an action: (0) Basic Attack (1) Petrochemical
+[2]E attacks [1]Hero.
+[2]E causes 15 damage to [1]Hero.
+[1]Hero's turn (HP: 999339, MP: 99499, STR: 30, State: Normal).
+Select an action: (0) Basic Attack (1) Fireball (2) Petrochemical
+[1]Hero uses Fireball on [2]D, [2]E.
+[1]Hero causes 50 damage to [2]D.
+[2]D dies.
+[1]Hero causes 50 damage to [2]E.
+[2]E dies.
+You win.

@@ -1,0 +1,13 @@
+#START-TROOP-1
+Hero 300 500 100 Fireball Waterball SelfHealing Petrochemical
+GodTien 1000 500 100 Summon
+#END-TROOP-1
+#START-TROOP-2
+Waterball 200 200 50 Summon
+Chaoyu 200 200 50 Summon
+#END-TROOP-2
+3
+3
+2
+1
+4

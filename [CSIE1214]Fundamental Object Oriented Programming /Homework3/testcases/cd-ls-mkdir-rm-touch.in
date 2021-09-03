@@ -1,0 +1,44 @@
+mkdir a
+mkdir c
+mkdir b
+ls
+cd b
+touch a a1
+touch b b1
+touch c c1
+touch c12345678 c12345678
+mkdir abc
+ls
+cd abc
+mkdir abc
+cd abc
+mkdir abc
+cd abc
+mkdir abc
+cd abc
+mkdir abc
+cd abc
+mkdir abc
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cat a
+cat b
+cat c
+cd ..
+touch a-b-c-d-e-f-g-h-i YouAreTheHero
+cat a-b-c-d-e-f-g-h-i
+rm a-b-c-d-e-f-g-h-i
+ls
+rm a
+rm b
+rm c
+ls
+exit

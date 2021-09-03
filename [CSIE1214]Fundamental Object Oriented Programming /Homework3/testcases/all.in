@@ -1,0 +1,38 @@
+mkdir h1
+mkdir a1
+cd h1
+mkdir h1-1
+mkdir h1-2
+mkdir h1-3
+cd h1-1
+touch file content
+cd ..
+cd h1-2
+mkdir h1-2-1
+cd ..
+cd h1-3
+mkdir h1-3-1
+touch file-h content
+cd ..
+cd ..
+cd a1
+mkdir a1-1
+mkdir a1-2
+touch file content
+cd ..
+cd h1
+search h
+cd ..
+cd a1
+search a
+cd ..
+search file
+search 1-1
+search 1-2
+rm abc
+rm h1
+rm a
+rm a1
+ls
+search h
+exit
