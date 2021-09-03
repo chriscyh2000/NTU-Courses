@@ -1,0 +1,169 @@
+MODULE alice (in0, in1, inkey, out0, out1, outkey)
+VAR
+  st : { request, wait, ack, finish };
+  nonce : { NONE, Na, Nb, Ne };
+ASSIGN
+  init (st) := request;
+  next (st) := case
+                 st = request                        : wait;
+                 st = wait & in0 = Na & inkey = Ka   : ack;
+                 st = ack                            : finish;
+                 TRUE                                : st;
+               esac;
+
+  init (nonce) := NONE;
+  next (nonce) := case
+                    st = wait & in0 = Na & inkey = Ka : in1;
+                    TRUE                              : nonce;
+                  esac;
+
+  init (out0) := NONE;
+  next (out0) := case
+                   st = request : Na;
+                   st = ack     : nonce;
+                   TRUE         : out0;
+                 esac;
+
+  init (out1) := NOONE;
+  next (out1) := case
+                   st = request : Ia;
+                   st = ack     : NOONE;
+                   TRUE         : out1;
+                 esac;
+
+  init (outkey) := NOKEY;
+  next (outkey) := case
+                     st = request : { Kb, Ke };
+                     TRUE         : outkey;
+                   esac;
+FAIRNESS running;
+
+MODULE bob (in0, in1, inkey, out0, out1, outkey)
+VAR
+  st : { wait, receive, confirm, done };
+  nonce : { NONE, Na, Nb, Ne };
+  other : { NOONE, Ia, Ib, Ie };
+ASSIGN
+  init (st) := wait;
+  next (st) := case
+                 st = wait & inkey = Kb                             : receive;
+                 st = receive                                       : confirm;
+                 st = confirm & in0 = Nb & in1 = NOONE & inkey = Kb : done;
+                 TRUE                                               : st;
+               esac;
+
+  init (nonce) := NONE;
+  next (nonce) := case
+                    st = wait & inkey = Kb                       : in0;
+                    TRUE                                         : nonce;
+                  esac;
+
+  init (other) := NOONE;
+  next (other) := case
+                    st = wait & inkey = Kb                       : in1;
+                    TRUE                                         : other;
+                  esac;
+
+  init (out0) := NONE;
+  next (out0) := case
+                   st = confirm : nonce;
+                   TRUE         : out0;
+                 esac;
+
+  init (out1) := NONE;
+  next (out1) := case
+                   st = confirm : Nb;
+                   TRUE         : out1;
+                 esac;
+
+  init (outkey) := NOKEY;
+  next (outkey) := case
+                     st = confirm & other = Ia : Ka;
+                     st = confirm & other = Ie : Ke;
+                     TRUE                      : outkey;
+                   esac;
+FAIRNESS running;
+
+MODULE eve (ina0, ina1, inakey, outa0, outa1, outakey,
+            inb0, inb1, inbkey, outb0, outb1, outbkey)
+VAR
+  -- which nonce has been learnt by eve?
+  learn :  { NONE, Na, Nb, Ne };
+ASSIGN
+  -- when someone uses eve's public key, eve can learn a nonce in the message  
+  init (learn) := NONE;
+  next (learn) := case
+                     inakey = Ke : { learn };  -- what else can be learned?
+                     inbkey = Ke : { learn };  -- what else can be learned?
+                     TRUE        : learn;
+                   esac;
+
+  -- when bob uses eve's public key, eve can change the message
+  init (outa0) := NONE;
+  next (outa0) := case
+                    inbkey = Ke : { inb0 };  -- what else can be passed?
+                    TRUE        : inb0;
+                  esac;
+
+  -- when bob uses eve's public key, eve can change the message
+  init (outa1) := NONE;
+  next (outa1) := case
+                    inbkey = Ke : { inb1 };  -- what else can be passed?
+                    TRUE        : inb1;
+                 esac;
+
+  -- when bob uses eve's public key, eve can change to another public key
+  init (outakey) := NOKEY;
+  next (outakey) := case
+                      inbkey = Ke : { inbkey };  -- what key can be modified?
+                      TRUE        : inbkey;
+                    esac;
+
+  -- when alice uses eve's public key, eve can change the message
+  init (outb0) := NONE;
+  next (outb0) := case
+                    inakey = Ke : { ina0 };  -- what else can be passed?
+                    TRUE        : ina0;
+                  esac;
+
+  -- when alice uses eve's public key, eve can change the message
+  init (outb1) := NOONE;
+  next (outb1) := case
+                    inakey = Ke : { ina1 };  -- what else can be passed?
+                    TRUE        : ina1;
+                 esac;
+
+  -- when alice uses eve's public key, eve can change the public key
+  init (outbkey) := NOKEY;
+  next (outbkey) := case
+                      inakey = Ke : { inakey };  -- what key can be modified?
+                      TRUE        : inakey;
+                    esac;
+FAIRNESS running
+
+MODULE main 
+VAR
+  a_in0 : { NONE, Na, Nb, Ne };
+  a_in1 : { NONE, Na, Nb, Ne };
+  a_out0 : { NONE, Na, Nb, Ne };
+  a_out1 : { NOONE, Ia, Ib, Ie };
+  a_inkey : { NOKEY, Ka, Kb, Ke };
+  a_outkey : { NOKEY, Ka, Kb, Ke };
+  b_in0 : { NONE, Na, Nb, Ne };
+  b_in1 : { NOONE, Ia, Ib, Ie };
+  b_out0 : { NONE, Na, Nb, Ne };
+  b_out1 : { NONE, Na, Nb, Ne };
+  b_inkey : { NOKEY, Ka, Kb, Ke };
+  b_outkey : { NOKEY, Ka, Kb, Ke };
+  a : process alice (a_in0, a_in1, a_inkey, a_out0, a_out1, a_outkey);
+  b : process bob (b_in0, b_in1, b_inkey, b_out0, b_out1, b_outkey);
+  e : process eve (a_out0, a_out1, a_outkey, a_in0, a_in1, a_inkey,
+                   b_out0, b_out1, b_outkey, b_in0, b_in1, b_inkey);
+FAIRNESS running;
+
+
+-- check if bob believes he is talking to alice, he is really talking to alice
+LTLSPEC G (b.st = done & b.other = Ia -> a.st = finish & a.outkey = Kb)
+
+-- check if alice believes she is talking to bob, she is really talking to bob
+LTLSPEC G (a.st = finish & a.outkey = Kb -> F (b.st = done & b.other = Ia))
