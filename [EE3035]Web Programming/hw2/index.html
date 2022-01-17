@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Photo Album</title>
+  <link
+    rel="stylesheet"
+    type="text/css"
+    media="screen"
+    href="styles.css"
+  />
+</head>
+<body>
+  <div class="cover">
+		<img src="./pictures/cover.webp" id="0000" width="84%">
+    <br/>
+		<img src="./pictures/title.png" id="0000">
+    <div class>
+      <p>連續點擊相簿兩下可刪除該相簿！</p>
+      <div>
+        <input type="text" placeholder="請輸入相簿名稱！" id = "newalbum"/>
+        <input type="submit" value="add a new album!" id="enterNewAlbum"/>
+        <p id="total">目前總張數：</p>
+      </div>
+    </div>
+	</div>
+  <div id="list">
+    <p>相簿：</p>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>

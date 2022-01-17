@@ -1,0 +1,119 @@
+body{
+    background-color: antiquewhite;
+    font-family: "Gayathri", sans-serif;
+}
+.cover {
+    text-align: center;
+    width: 100%;
+    align-items: center;
+}
+.list{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.photograph{
+    margin:100px;
+}
+#large_size{
+    display:block; margin:auto;
+    width: auto;
+    height:630px;
+}
+
+.preview{
+    overflow: auto;
+}
+.preview > img{
+    margin: 20px;
+    width:auto;
+    height:200px
+}
+.preview > img:hover{
+    transform:scale(1.1, 1.1);
+    transition: 1s;
+    cursor: pointer;
+    box-shadow: 0 0 6px 3px #fff, /* inner white */ 0 0 10px 6px #f0f,
+    /* middle magenta */ 0 0 14px 9px #0ff; /* outer cyan */
+}
+.preview > img:active{
+    box-shadow: 0 0 3px 1.5px #fff, /* inner white */ 0 0 5px 3px rgb(193, 40, 1),
+    /* middle magenta */ 0 0 7px 4.5px rgb(222, 233, 2); /* outer cyan */
+    transform:scale(1.1, 1.1);
+    transition: 0.1s;
+}
+.selected{
+    box-shadow: 0 0 3px 1.5px #fff, /* inner white */ 0 0 5px 3px rgb(193, 40, 1),
+    /* middle magenta */ 0 0 7px 4.5px rgb(222, 233, 2); /* outer cyan */
+}
+.preview .selected:hover{
+    box-shadow: 0 0 3px 1.5px #fff, /* inner white */ 0 0 5px 3px rgb(193, 40, 1),
+    /* middle magenta */ 0 0 7px 4.5px rgb(222, 233, 2); /* outer cyan */
+    transform:scale(1.1, 1.1);
+    transition: 1s;
+}
+#list{
+    text-align:center;
+}
+#list > input{
+    margin-left:10px;
+    margin-right:10px;
+}
+#list > input:hover{
+    cursor: pointer;
+    
+    box-shadow: 0 0 6px 3px #fff, /* inner white */ 0 0 10px 6px #f0f,
+    /* middle magenta */ 0 0 14px 9px #0ff; /* outer cyan */
+}
+#list .selected:hover{
+    box-shadow: 0 0 3px 1.5px #fff, /* inner white */ 0 0 5px 3px rgb(193, 40, 1),
+    /* middle magenta */ 0 0 7px 4.5px rgb(222, 233, 2); /* outer cyan */
+    transform:scale(1.1, 1.1);
+    transition: 1s;
+}
+.display {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.image-viewer__button {
+    display: inline;
+    background: none;
+    border: none;
+    border-radius: 50%;
+}
+  
+.image-viewer__button img {
+    width: 80px;
+    height: 80px;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    cursor: pointer;
+}
+  
+.image-viewer__button img:hover {
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.disabled {
+    opacity: 0.2;
+}
+
+.disabled:hover {
+    border-color: transparent !important;
+    cursor: not-allowed;
+}
+.block{
+    height: 200px;
+    padding: 10px;
+}
+div.preview{
+    min-height: 230px;
+    max-height: 590px;
+    border: solid gainsboro 5px;
+    border-radius: 3%;
+    overflow:scroll;
+}

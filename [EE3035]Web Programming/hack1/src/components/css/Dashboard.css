@@ -1,0 +1,40 @@
+/****************************************************************************
+  FileName      [ Dashboard.css ]
+  PackageName   [ src/components/css ]
+  Author        [ Cheng-Hua Lu, Chin-Yi Cheng ]
+  Synopsis      [ This file set the style of Dashboard. ]
+  Copyright     [ 2021 10 ]
+****************************************************************************/
+
+*{
+    font-family: 'Futura';
+}
+.dashBoard{
+    background-color: darkgray;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.dashBoard_col{
+    display: flex;
+    color: '#222222';
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    margin: 0;
+    padding: 0 5px;
+}
+#dashBoard_col1{
+    display:inline;
+    margin: 0 auto;
+    text-align: center;
+}
+#dashBoard_col2{
+    display:inline;
+    margin: 0 auto;
+    text-align: center;
+}

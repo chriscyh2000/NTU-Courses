@@ -1,0 +1,77 @@
+/****************************************************************************
+  FileName      [ Modal.css ]
+  PackageName   [ src/components/css ]
+  Author        [ Cheng-Hua Lu, Chin-Yi Cheng ]
+  Synopsis      [ This file set the style of Modal. ]
+  Copyright     [ 2021 10 ]
+****************************************************************************/
+
+*{
+    font-family: 'Futura';
+}
+.modal{
+    z-index: 1;
+    margin: auto;
+    height: 50%;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.modalWrapper{
+    height: 25%;
+}
+.modalContent{
+    margin: auto 20%;
+    justify-content: center;
+    text-align: center;
+    height: 50%;
+    width: auto;
+    padding: auto;
+    background-color: lightblue;
+    border-radius: 25px;
+    
+}
+.modalResult{
+    color: #0f0f4b;
+    width: 100%;
+    margin: auto;
+    font-size: 50px;
+    font-weight: 700;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modalBtnWrapper{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+.modalBtn{
+    background-color: #0f0f4b;
+    color: lightblue;
+    border: 3px solid transparent;
+    font-size: 25px;
+    font-weight: 300;
+    border-radius: 25px;
+    height: 60%;
+    width: 50%;
+    margin: auto 5% ;
+    
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modalBtn:hover{
+    cursor: pointer;
+    color: #0f0f4b;
+    background-color: lightblue;
+    border: 3px solid #0f0f4b;
+}

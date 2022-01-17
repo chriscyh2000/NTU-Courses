@@ -1,0 +1,105 @@
+/****************************************************************************
+  FileName      [ HomePage.css ]
+  PackageName   [ src/components/css ]
+  Author        [ Cheng-Hua Lu, Chin-Yi Cheng ]
+  Synopsis      [ This file set the style of HomePage. ]
+  Copyright     [ 2021 10 ]
+****************************************************************************/
+
+*{
+    font-family: 'Futura';
+}
+.HomeWrapper{
+    height: 100vh;
+    width: 100vw;
+    margin: 2% auto;
+}
+.title{
+    font-size: 75px;
+    font-family: 'Futura';
+    font-weight: 900;
+    padding-top: 50px;
+    color: #0f0f4b;
+}
+.btn{
+    font-size: 30px;
+    padding: 10px 30px;
+    border: transparent;
+    border-radius: 25px;
+    margin: 20px auto;
+    color: #0f0f4b;
+    background-color: lightblue;
+    border: 3px solid #0f0f4b;
+    
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #0f0f4b;
+    color: lightblue;
+    border: 3px solid transparent;
+}
+.controlContainer{
+    
+}
+.controlWrapper{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.controlPanel{
+    display: flex;
+    justify-content: center;
+}
+.error{
+    width: 100%;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+.controlCol{
+    display: inline-block;
+    width: 40%;
+}
+.inputSlider{
+    outline: 0;
+    border: 0;
+    border-radius: 500px;
+
+}
+.controlTitle{
+    font-size: 25px;
+    color: #0f0f4b;
+}
+
+.controlNum{
+    font-size: 20px;
+    color: #0f0f4b;
+}
+
+/* Chrome */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    input[type='range'] {
+        -webkit-appearance: none !important;
+        width: 400px;
+        height: 5px;
+        background-color: #0f0f4b;
+        border: none;
+        outline: none;
+    }
+    input[type='range']::-webkit-slider-thumb {
+        -webkit-appearance:none !important;
+        height: 20px;
+        width: 20px;
+        background: white;
+        border: 2px solid #0f0f4b;
+        border-radius:50%;
+        cursor: ew-resize;
+    }
+    input[type='range']::-webkit-slider-thumb:hover {
+        background:#0f0f4b;
+    }
+
+}

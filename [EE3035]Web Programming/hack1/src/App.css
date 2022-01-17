@@ -1,0 +1,26 @@
+/****************************************************************************
+  FileName      [ App.css ]
+  PackageName   [  ]
+  Author        [ Cheng-Hua Lu, Chin-Yi Cheng ]
+  Synopsis      [  ]
+  Copyright     [ 2021 10 ]
+****************************************************************************/
+
+*{
+      font-family: 'Futura';
+}
+html, body{
+      height: 100%;
+}
+.App{
+      display: "flex";
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+}
+
+
+
+
+
+

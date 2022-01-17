@@ -1,0 +1,14 @@
+/****************************************************************************
+  FileName      [ MineSweeper.css ]
+  PackageName   [ src/containers ]
+  Author        [ Cheng-Hua Lu, Chin-Yi Cheng ]
+  Synopsis      [ This file set the style of MineSweeper. ]
+  Copyright     [ 2021 10 ]
+****************************************************************************/
+
+.mineSweeper{
+    display: "flex";
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

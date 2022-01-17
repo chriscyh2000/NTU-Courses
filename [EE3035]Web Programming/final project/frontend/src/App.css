@@ -1,0 +1,275 @@
+@import "~antd/dist/antd.css"; 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h1 {
+  font-weight: 900;
+  /* font-family: 'Luxurious Roman', cursive; */
+  /* font-family: 'Playfair Display', serif; */
+  font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  line-height: 60px;
+}
+
+
+.menu {
+  position: absolute;
+  top:80px;
+  left:0px;
+  z-index: 200;
+  animation-name: bounceInLeft;
+  animation-duration: 0.2s;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+}
+
+@keyframes bounceInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-120px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.wrapper_dark {
+  background-color: black;
+  color: white;
+}
+
+.wrapper_light {
+  background-color: white;
+  color:black;
+}
+
+.rightupper {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.why {
+  display: inline-block;
+}
+
+.createPost {
+  align-content: center;
+  width: 60%;
+  margin:0px auto;
+}
+
+.storeBox {
+  white-space: nowrap;
+  width: 80%;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.store {
+  white-space: nowrap;
+  height: 200px;
+  width: 450px;
+  background-color: #ddf7ff;
+  border: gray solid;
+  border-radius: 10pt;
+  border-width: 1px;
+  margin: 10px auto;
+}
+
+.store:hover {
+  background-color: #c8f2ff;
+  border-width: 2px;
+  transition-duration: 150ms;
+}
+
+.storeInformation {
+  text-align: left;
+  display: inline-block;
+  width: 330px;
+  height: calc(100%-20px);
+  margin: 20px 0px 0px 30px;
+}
+
+.storeOther {
+  text-align: center;
+  display: inline-block;
+  white-space: nowrap;
+  width: 80px;
+  height: calc(100%-20px);
+}
+
+.storeGo {
+  text-align: center;
+  height: 90px;
+}
+
+.storeFav {
+  text-align: center;
+  position: relative;
+  top: 30px;
+  height: 140px;
+}
+
+.storeGo2 {
+  display: inline-block;
+}
+
+.storeGo2:hover {
+  cursor: pointer;
+}
+
+.pro {
+  white-space: nowrap;
+  width: auto;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.proOption {
+  display: inline-block;
+  width: 260px;
+  margin: 5px;
+  background-color: #ddf7ff;
+  border: gray solid;
+  border-radius: 10pt;
+  border-width: 1px;
+}
+
+.rate {
+  font-size: 20px;
+}
+
+.inlineParent {
+  margin:0px auto;
+  white-space: nowrap;
+  text-align: left;
+}
+
+.inlineChild {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.postbox {
+  width: 100%;
+  height: auto;
+  margin: 10px auto;
+  margin-bottom: 20px;
+}
+
+.post {
+  margin: 20px auto 50px auto;
+  width: 100%;
+  text-align: center;
+  border-bottom: 5px black double;
+}
+
+.postweebao {
+  text-align: left;
+  background-color: #ddf7ff;
+  margin: 0px 5px 5px 5px;
+  width: calc(100%-10px);
+  border: gray outset;
+  border-width: 2px;
+  border-radius: 10pt;
+}
+
+.postMain {
+  font-size: 12pt;
+  display: inline-block;
+}
+
+.postInner {
+  margin: 0px 5px 5px;
+}
+
+.postTitle, .postTitle1 {
+  font-weight: 700;
+  text-align: left;
+  margin: 5px 20px 0px 20px;
+}
+
+.postTitle1 {
+  border-bottom: 1px gray groove;
+}
+
+.why2 {
+  text-align: center;
+}
+
+.searchBar {
+  margin: 0px auto;
+  display: flex;
+}
+
+.commentBox {
+  margin: 0px 0px 10px 20px;
+  width: calc(100%-35px);
+}
+
+.comment {
+  /* border: 1px gray outset; */
+  text-align: left;
+  margin: 5px;
+}
+
+.fav {
+  margin:0px auto;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.contactWrapper {
+  width: auto;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.contact {
+  width: 500px;
+  margin: 10px auto;
+  text-align: inherit;
+  background-color: #ddf7ff;
+  border: gray solid;
+  border-radius: 10pt;
+  border-width: 1px;
+}

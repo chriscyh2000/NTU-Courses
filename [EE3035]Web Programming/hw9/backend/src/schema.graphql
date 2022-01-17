@@ -1,0 +1,51 @@
+type Query {
+  chatbox(name: String!): ChatBox!
+  user(name: String!): User
+}
+
+type Mutation {
+  createChatBox(name1: String!, name2: String!): ChatBox!
+  createUser(name: String!, password: String!): User!
+  createMessage(sender: String!, receiver: String!, body: String!): Message!
+  login(name: String!, password: String!): AuthPayload!
+  signup(name: String!, password: String!): AuthPayload!
+}
+
+type AuthPayload {
+  message: String!
+  password: String
+}
+
+type Subscription {
+  chatBox(name: String!): ChatBoxSubscriptionPayload!
+}
+
+enum MutationType {
+  CREATED
+  UPDATED
+  DELETED
+}
+
+type ChatBoxSubscriptionPayload {
+  mutation: MutationType!
+  data: Message!
+}
+
+type ChatBox {
+  id: ID!
+  name: String! # ... name1_name2
+  messages: [Message]! 
+  # ... the array can be null, but if there is an array, the elements in the array cannot be null
+}
+
+type Message {
+  id: ID!
+  sender: User!
+  body: String!
+}
+
+type User {
+  id: ID!
+  name: String!
+  password: String!
+}

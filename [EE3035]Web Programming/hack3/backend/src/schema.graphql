@@ -1,0 +1,55 @@
+# Date type. See resolvers/Date.js
+scalar Date
+
+# Status of a task. See resolvers/Status.js.
+enum Status {
+  TODO
+  INPROGRESS
+  DONE
+}
+
+# A task will have an id, title, content, dueDate and status
+type Task {
+  id: ID!
+  title: String!
+  content: String!
+  dueDate: Date! # use scalar Date above
+  status: Status! # use enum Status above
+}
+
+# See resolvers/Query.js
+type Query {
+  # Get all tasks
+  tasks: [Task!]!
+}
+
+# See resolvers/Mutation.js
+type Mutation {
+  # Create a task
+  createTask(input: CreateTaskInput!): Task
+  # Update a task's status
+  updateTask(id: ID!, status: Status!): Task
+  # Delete a task
+  # TODO 5.1 Add the deleteTask function
+  deleteTask(id: ID!): ID!
+}
+
+# Input for creating a task
+input CreateTaskInput {
+  id: ID!
+  title: String!
+  content: String!
+  dueDate: Date!
+  status: Status!
+}
+
+# See resolvers/Subscription.js
+type Subscription {
+  # Notify a task created
+  taskCreated: Task!
+  # Notify a task updated
+  taskUpdated: Task!
+  # Notify a task deleted
+  # TODO 6.1 Add the taskDeleted subscription
+  taskDeleted: ID!
+}

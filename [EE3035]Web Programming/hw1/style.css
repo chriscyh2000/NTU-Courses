@@ -1,0 +1,48 @@
+body {
+    color: aliceblue;
+    background-color: black;
+}
+.plist > div{
+    border-radius: 30%;
+    border: 2px burlywood solid;
+    text-align : center;
+    width: 150px;
+    height: 30px;
+}
+.plist > div > a{
+    color:azure;
+}
+.plist > div:hover {
+    background-color: blanchedalmond;
+    border-radius: 30%;
+}
+#small {
+    width:auto;
+    height: 200px;
+    border-radius: 15%;
+    margin: 6px;
+}
+#small:hover{
+    transform:scale(1.1, 1.1);
+    opacity: 0.5;
+    transition: 0.7s;
+    cursor: pointer;
+}
+#small:active{
+    transform:scale(1.1, 1.1);
+    filter: blur(4px);
+    transition: 1s;
+    cursor: pointer;
+    padding: 20px 
+}
+#emojis {
+    display: flex;
+}
+#bigs {
+    column-count: 3;
+}
+#bigs > img {
+    width: 100%;
+    border-radius: 20px;
+    margin: 20px;
+}

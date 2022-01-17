@@ -1,0 +1,12 @@
+{
+  "name": "Web1101-Final-Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chriscyh2000/Web1101-Final-Project.git",
+  "author": "chriscyhxx <littlesun95018@gmail.com.tw>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd frontend && yarn start",
+    "server": "cd backend && yarn server"
+  }
+}

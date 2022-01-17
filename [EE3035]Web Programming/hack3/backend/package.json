@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv-defaults": "^3.0.0",
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js --ext js,graphql --exec babel-node"
+  },  
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/node": "^7.16.5",
+    "@babel/preset-env": "^7.16.5"
+  }
+}

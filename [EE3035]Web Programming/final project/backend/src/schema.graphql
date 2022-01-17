@@ -1,0 +1,123 @@
+type Query {
+  stores(query: String): [Store]!
+  posts(query: ID!): [Post]!
+  post(postId: ID!): Post!
+  comments(post: ID!): [Comment]!
+  user(name: String!): User
+  store(name: String!): Store
+}
+
+type Mutation {
+  createPost(data: CreatePostInput!): Post!
+  createStore(data: CreateStoreInput!): Store!
+  createComment(data: CreateCommentInput!): Comment!
+  login(name: String!, password: String!): LoginPayLoad!
+  signup(name: String!, password: String!): AuthPayload!
+  findStore(name: String!): Store
+  findStoreById(id: ID!): Store
+  addFav(storeId: ID!, userId: ID!): Store!
+  removeFav(storeId: ID!, userId: ID!): Store!
+  editProfile(userId: ID!, biography: String!): User
+  uploadUserImage(image: String!, name: String!): String!
+}
+type LoginPayLoad {
+  message: String!
+  user: User
+}
+
+type AuthPayload {
+  message: String!
+  password: String
+}
+
+type Subscription {
+  comment(id: ID!): CommentSubscriptionPayload!
+  post(id: ID!): PostSubscriptionPayload!
+  store(id: ID): StoreSubscriptionPayload!
+}
+
+type CommentSubscriptionPayload {
+  mutation: MutationType!
+  data: Comment!
+}
+
+type PostSubscriptionPayload {
+  mutation: MutationType!
+  data: Post!
+}
+
+type StoreSubscriptionPayload {
+  mutation: MutationType!
+  data: Store!
+}
+
+input CreatePostInput {
+  title: String!
+  body: String!
+  score: Int!
+  author: String!
+  store: ID!
+  img: String,
+  pimg: String
+}
+
+input CreateCommentInput {
+  text: String!
+  sender: ID!
+  post: ID!
+}
+
+input CreateStoreInput {
+  name: String!
+  location: String!
+}
+
+enum MutationType {
+  CREATED
+  UPDATED
+  DELETED
+}
+
+type Comment {
+  id: ID!
+  text: String!
+  sender: String!
+  img: String!
+  post: ID!
+}
+
+type StoreInfo{
+  id: ID!
+  name: String!
+}
+
+type Post {
+  id: ID!
+  title: String!
+  body: String!
+  author: String!
+  comments: [Comment]!
+  store: StoreInfo!
+  score: Int!
+  img: String
+  pimg: String
+}
+
+type Store {
+  id: ID!
+  name: String!
+  score: Int!
+  location: String!
+  posts: [Post]!
+  postCount: Int!
+}
+
+type User {
+  id: ID!
+  name: String!
+  password: String!
+  posts: [Post]!
+  favs: [Store]!
+  biography: String
+  image: String
+}
