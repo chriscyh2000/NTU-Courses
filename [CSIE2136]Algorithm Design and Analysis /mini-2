@@ -1,0 +1,9 @@
+HELPER(root, min, max)
+    if(root == NULL) return true
+    if(root.value >= min and root.value < max)
+        return HELPER(root.left, min, root.value) and HELPER(root.right, root.value, max) 
+    return false
+
+CHECK-IF-VALID(root)
+    return HELPER(root, -inf, inf)
+
