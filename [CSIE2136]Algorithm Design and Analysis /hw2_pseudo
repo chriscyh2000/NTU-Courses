@@ -1,3 +1,0 @@
-array dp[N] = {0}
-function f(i, j):
-    
