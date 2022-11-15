@@ -1,0 +1,1 @@
+flag = 'HW4{this_is_a_fake_flagggggg}'

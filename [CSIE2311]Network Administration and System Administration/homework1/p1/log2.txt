@@ -1,0 +1,667 @@
+[Sun Dec 04 05:04:03 2005] [notice] jk2_init() Found child 8763 in scoreboard slot 9
+[Mon Dec 05 04:01:23 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 19:41:21 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:59:25 2005] [notice] jk2_init() Found child 5568 in scoreboard slot 13
+[Sun Dec 04 20:11:09 2005] [notice] jk2_init() Found child 1900 in scoreboard slot 8
+[Sun Dec 04 06:55:00 2005] [notice] jk2_init() Found child 32648 in scoreboard slot 9
+[Mon Dec 05 11:06:51 2005] [notice] jk2_init() Found child 5618 in scoreboard slot 8
+[Mon Dec 05 05:11:54 2005] [notice] jk2_init() Found child 4613 in scoreboard slot 7
+[Mon Dec 05 16:21:29 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:08:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:56:53 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 14:01:48 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 13:43:27 2005] [notice] jk2_init() Found child 5993 in scoreboard slot 9
+[Sun Dec 04 11:42:43 2005] [error] [client 216.127.124.16] Directory index forbidden by rule: /var/www/html/
+[Sun Dec 04 20:47:16 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:46:33 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:33:47 2005] [notice] jk2_init() Found child 2004 in scoreboard slot 6
+[Sun Dec 04 20:24:49 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 19:46:13 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:14:08 2005] [notice] jk2_init() Found child 318 in scoreboard slot 8
+[Mon Dec 05 04:08:37 2005] [notice] jk2_init() Found child 3679 in scoreboard slot 9
+[Sun Dec 04 16:51:26 2005] [notice] jk2_init() Found child 1313 in scoreboard slot 6
+[Sun Dec 04 04:58:11 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:38:14 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 12:55:48 2005] [notice] jk2_init() Found child 5817 in scoreboard slot 8
+[Sun Dec 04 06:46:12 2005] [notice] jk2_init() Found child 32581 in scoreboard slot 7
+[Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 06:18:39 2005] [notice] jk2_init() Found child 32446 in scoreboard slot 6
+[Mon Dec 05 07:48:55 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 17:12:54 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:34:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:36:07 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:26:00 2005] [notice] jk2_init() Found child 6400 in scoreboard slot 7
+[Mon Dec 05 19:00:54 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 17:31:45 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 05:15:33 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 03:36:57 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 05:11:34 2005] [notice] jk2_init() Found child 4611 in scoreboard slot 9
+[Mon Dec 05 10:26:31 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:05:55 2005] [notice] jk2_init() Found child 1885 in scoreboard slot 9
+[Mon Dec 05 07:47:21 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:46:13 2005] [notice] jk2_init() Found child 32579 in scoreboard slot 9
+[Sun Dec 04 20:47:16 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:43:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 04:51:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:43:12 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:32:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:51:38 2005] [notice] jk2_init() Found child 6734 in scoreboard slot 9
+[Sun Dec 04 06:58:12 2005] [notice] jk2_init() Found child 32674 in scoreboard slot 8
+[Sun Dec 04 17:43:12 2005] [error] mod_jk child init 1 -2
+[Mon Dec 05 04:01:23 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:43:08 2005] [notice] jk2_init() Found child 1562 in scoreboard slot 7
+[Sun Dec 04 06:41:07 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 20:21:09 2005] [notice] jk2_init() Found child 1932 in scoreboard slot 8
+[Mon Dec 05 03:44:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:32:10 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 17:21:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:51:23 2005] [error] mod_jk child workerEnv in error state 8
+[Mon Dec 05 12:35:57 2005] [notice] jk2_init() Found child 5786 in scoreboard slot 7
+[Mon Dec 05 17:50:41 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:36:10 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 18:35:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 16:41:22 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:58:13 2005] [notice] jk2_init() Found child 32673 in scoreboard slot 10
+[Mon Dec 05 11:04:16 2005] [notice] jk2_init() Found child 5593 in scoreboard slot 9
+[Sun Dec 04 05:04:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 16:41:15 2005] [notice] jk2_init() Found child 1275 in scoreboard slot 6
+[Sun Dec 04 16:35:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:22:12 2005] [notice] jk2_init() Found child 1935 in scoreboard slot 7
+[Sun Dec 04 06:47:30 2005] [notice] jk2_init() Found child 32586 in scoreboard slot 7
+[Sun Dec 04 06:16:23 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 06:41:45 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:47:44 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:43:19 2005] [notice] jk2_init() Found child 4986 in scoreboard slot 8
+[Mon Dec 05 10:33:41 2005] [notice] jk2_init() Found child 5418 in scoreboard slot 6
+[Mon Dec 05 10:26:25 2005] [notice] jk2_init() Found child 5387 in scoreboard slot 6
+[Mon Dec 05 16:02:00 2005] [notice] jk2_init() Found child 6314 in scoreboard slot 8
+[Mon Dec 05 07:57:02 2005] [notice] jk2_init() Found child 5051 in scoreboard slot 9
+[Sun Dec 04 06:16:21 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 16:45:52 2005] [notice] jk2_init() Found child 1284 in scoreboard slot 9
+[Sun Dec 04 17:05:48 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:52:02 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 16:41:22 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:44:38 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 8
+[Mon Dec 05 18:20:51 2005] [notice] jk2_init() Found child 6669 in scoreboard slot 8
+[Sun Dec 04 06:41:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:11:09 2005] [notice] jk2_init() Found child 1898 in scoreboard slot 9
+[Mon Dec 05 03:47:54 2005] [error] mod_jk child workerEnv in error state 8
+[Mon Dec 05 13:45:08 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:58:54 2005] [notice] jk2_init() Found child 32676 in scoreboard slot 9
+[Mon Dec 05 18:40:54 2005] [notice] jk2_init() Found child 6718 in scoreboard slot 8
+[Mon Dec 05 10:43:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:47:36 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:59:25 2005] [notice] jk2_init() Found child 5566 in scoreboard slot 10
+[Mon Dec 05 10:21:05 2005] [notice] jk2_init() Found child 5366 in scoreboard slot 9
+[Sun Dec 04 15:59:01 2005] [error] [client 24.83.37.136] Directory index forbidden by rule: /var/www/html/
+[Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:53:37 2005] [notice] jk2_init() Found child 32637 in scoreboard slot 7
+[Sun Dec 04 19:46:13 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:02:02 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 04:56:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:21:13 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 03:47:53 2005] [notice] jk2_init() Found child 2844 in scoreboard slot 8
+[Sun Dec 04 20:21:36 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:46:46 2005] [notice] jk2_init() Found child 4995 in scoreboard slot 6
+[Sun Dec 04 07:01:57 2005] [notice] jk2_init() Found child 32712 in scoreboard slot 6
+[Mon Dec 05 13:22:48 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:17:24 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:12:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:22:48 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 17:50:41 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:13:09 2005] [notice] jk2_init() Found child 314 in scoreboard slot 7
+[Sun Dec 04 07:07:23 2005] [notice] jk2_init() Found child 32754 in scoreboard slot 11
+[Mon Dec 05 13:22:48 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 06:36:10 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 19:00:54 2005] [notice] jk2_init() Found child 6751 in scoreboard slot 10
+[Mon Dec 05 18:15:47 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 04:10:47 2005] [notice] jk2_init() Found child 3691 in scoreboard slot 8
+[Mon Dec 05 03:40:55 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:42:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:12:54 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:35:58 2005] [notice] jk2_init() Found child 1797 in scoreboard slot 9
+[Sun Dec 04 06:44:18 2005] [notice] jk2_init() Found child 32561 in scoreboard slot 8
+[Mon Dec 05 13:16:29 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:16:27 2005] [notice] jk2_init() Found child 5875 in scoreboard slot 7
+[Mon Dec 05 07:53:24 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:48:04 2005] [notice] jk2_init() Found child 5003 in scoreboard slot 6
+[Mon Dec 05 14:11:40 2005] [notice] jk2_init() Found child 6115 in scoreboard slot 10
+[Sun Dec 04 17:20:38 2005] [notice] jk2_init() Found child 1450 in scoreboard slot 11
+[Mon Dec 05 12:55:49 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 14:01:47 2005] [notice] jk2_init() Found child 6099 in scoreboard slot 6
+[Mon Dec 05 12:36:36 2005] [notice] jk2_init() Found child 5787 in scoreboard slot 8
+[Sun Dec 04 06:46:31 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 06:43:40 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 03:46:38 2005] [notice] jk2_init() Found child 2836 in scoreboard slot 9
+[Sun Dec 04 20:11:14 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:54:02 2005] [notice] jk2_init() Found child 5030 in scoreboard slot 6
+[Sun Dec 04 06:06:10 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 19:14:09 2005] [error] [client 61.220.139.68] Directory index forbidden by rule: /var/www/html/
+[Mon Dec 05 18:35:51 2005] [notice] jk2_init() Found child 6707 in scoreboard slot 8
+[Sun Dec 04 04:57:24 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 05:01:20 2005] [notice] jk2_init() Found child 8587 in scoreboard slot 9
+[Mon Dec 05 15:41:32 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 10:26:26 2005] [notice] jk2_init() Found child 5385 in scoreboard slot 8
+[Sun Dec 04 06:53:23 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:55:54 2005] [notice] jk2_init() Found child 32657 in scoreboard slot 9
+[Mon Dec 05 13:22:45 2005] [notice] jk2_init() Found child 5901 in scoreboard slot 9
+[Sun Dec 04 06:47:30 2005] [notice] jk2_init() Found child 32587 in scoreboard slot 10
+[Mon Dec 05 13:10:59 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:01:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:53:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:33:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:32:34 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:38:52 2005] [notice] jk2_init() Found child 5968 in scoreboard slot 9
+[Mon Dec 05 13:53:35 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:58:18 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 20:27:43 2005] [notice] jk2_init() Found child 1961 in scoreboard slot 8
+[Sun Dec 04 17:27:13 2005] [notice] jk2_init() Found child 1466 in scoreboard slot 8
+[Sun Dec 04 06:51:13 2005] [notice] jk2_init() Found child 32624 in scoreboard slot 8
+[Mon Dec 05 18:10:56 2005] [notice] jk2_init() Found child 6639 in scoreboard slot 7
+[Sun Dec 04 20:32:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:22:48 2005] [notice] jk2_init() Found child 32477 in scoreboard slot 10
+[Mon Dec 05 10:51:59 2005] [notice] jk2_init() Found child 5517 in scoreboard slot 6
+[Sun Dec 04 07:12:44 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 20:11:14 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:20:46 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 04:01:23 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:55:54 2005] [notice] jk2_init() Found child 32659 in scoreboard slot 8
+[Sun Dec 04 05:04:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 19:00:43 2005] [notice] jk2_init() Found child 6750 in scoreboard slot 8
+[Sun Dec 04 06:53:04 2005] [notice] jk2_init() Found child 32632 in scoreboard slot 7
+[Mon Dec 05 18:56:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:14:00 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 11:06:52 2005] [error] jk2_init() Can't find child 5622 in scoreboard
+[Sun Dec 04 20:26:10 2005] [notice] jk2_init() Found child 1957 in scoreboard slot 8
+[Mon Dec 05 16:16:36 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 16:31:52 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 16:16:34 2005] [notice] jk2_init() Found child 6368 in scoreboard slot 8
+[Mon Dec 05 13:26:37 2005] [notice] jk2_init() Found child 5915 in scoreboard slot 6
+[Sun Dec 04 06:22:18 2005] [notice] jk2_init() Found child 32475 in scoreboard slot 8
+[Mon Dec 05 13:32:28 2005] [notice] jk2_init() Found child 5941 in scoreboard slot 7
+[Sun Dec 04 04:58:58 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 17:35:57 2005] [notice] jk2_init() Found child 6568 in scoreboard slot 7
+[Sun Dec 04 06:18:08 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:48:55 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 12:50:43 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 18:27:33 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 11:06:52 2005] [error] jk2_init() Can't find child 5620 in scoreboard
+[Sun Dec 04 17:12:42 2005] [notice] jk2_init() Found child 1393 in scoreboard slot 8
+[Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 16:52:49 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:59:43 2005] [notice] jk2_init() Found child 6069 in scoreboard slot 7
+[Mon Dec 05 18:35:53 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 17:31:41 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 20:37:46 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:00:34 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:57:02 2005] [error] jk2_init() Can't find child 5054 in scoreboard
+[Mon Dec 05 17:46:02 2005] [notice] jk2_init() Found child 6586 in scoreboard slot 8
+[Sun Dec 04 19:46:20 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:45:08 2005] [error] mod_jk child workerEnv in error state 8
+[Mon Dec 05 07:37:47 2005] [notice] jk2_init() Found child 4961 in scoreboard slot 6
+[Mon Dec 05 14:11:45 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 06:41:46 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:55:08 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 03:46:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:11:04 2005] [notice] jk2_init() Found child 310 in scoreboard slot 6
+[Mon Dec 05 03:36:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:26:37 2005] [notice] jk2_init() Found child 5914 in scoreboard slot 9
+[Sun Dec 04 07:07:30 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:46:31 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 06:57:19 2005] [notice] jk2_init() Found child 32670 in scoreboard slot 6
+[Sun Dec 04 17:34:52 2005] [notice] jk2_init() Found child 1507 in scoreboard slot 10
+[Mon Dec 05 10:26:39 2005] [error] [client 141.153.150.164] Directory index forbidden by rule: /var/www/html/
+[Sun Dec 04 17:11:37 2005] [notice] jk2_init() Found child 1389 in scoreboard slot 9
+[Mon Dec 05 18:27:37 2005] [notice] jk2_init() Found child 6689 in scoreboard slot 7
+[Mon Dec 05 10:47:45 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 04:14:00 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:47:17 2005] [error] mod_jk child init 1 -2
+[Sun Dec 04 20:24:49 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 16:32:58 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:05:55 2005] [notice] jk2_init() Found child 1887 in scoreboard slot 8
+[Mon Dec 05 16:02:02 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:12:40 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:22:55 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 20:16:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:41:21 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:30:43 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 16:40:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:07:09 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 17:40:39 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 05:15:33 2005] [error] mod_jk child workerEnv in error state 9
+[Mon Dec 05 18:27:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:36:07 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:32:58 2005] [notice] jk2_init() Found child 1254 in scoreboard slot 7
+[Sun Dec 04 06:17:33 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:01:23 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:05:59 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:32:33 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:02:05 2005] [notice] jk2_init() Found child 32355 in scoreboard slot 7
+[Mon Dec 05 15:50:53 2005] [notice] jk2_init() Found child 6293 in scoreboard slot 6
+[Sun Dec 04 06:43:20 2005] [notice] jk2_init() Found child 32557 in scoreboard slot 7
+[Mon Dec 05 10:33:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 05:04:03 2005] [notice] jk2_init() Found child 8766 in scoreboard slot 12
+[Sun Dec 04 06:19:19 2005] [notice] jk2_init() Found child 32450 in scoreboard slot 10
+[Mon Dec 05 12:40:38 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 20:38:14 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:07:30 2005] [error] mod_jk child workerEnv in error state 9
+[Sun Dec 04 16:32:58 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:24:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 15:41:32 2005] [notice] jk2_init() Found child 6279 in scoreboard slot 6
+[Mon Dec 05 10:37:27 2005] [notice] jk2_init() Found child 5430 in scoreboard slot 6
+[Sun Dec 04 06:01:30 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 10:47:47 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 16:21:29 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 18:40:54 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 8
+[Mon Dec 05 17:31:37 2005] [notice] jk2_init() Found child 6561 in scoreboard slot 10
+[Sun Dec 04 20:47:16 2005] [notice] jk2_init() Found child 2083 in scoreboard slot 8
+[Mon Dec 05 04:06:19 2005] [notice] jk2_init() Found child 3669 in scoreboard slot 6
+[Sun Dec 04 05:12:26 2005] [notice] jk2_init() Found child 25803 in scoreboard slot 8
+[Mon Dec 05 10:53:42 2005] [notice] jk2_init() Found child 5527 in scoreboard slot 7
+[Mon Dec 05 07:53:01 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 20:32:37 2005] [notice] jk2_init() Found child 1998 in scoreboard slot 9
+[Mon Dec 05 07:46:01 2005] [notice] jk2_init() Found child 4991 in scoreboard slot 6
+[Sun Dec 04 17:05:48 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:06:26 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 07:18:00 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:22:55 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:31:22 2005] [notice] jk2_init() Found child 4932 in scoreboard slot 6
+[Sun Dec 04 19:25:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:43:12 2005] [error] mod_jk child workerEnv in error state 9
+[Mon Dec 05 10:46:55 2005] [notice] jk2_init() Found child 5497 in scoreboard slot 7
+[Sun Dec 04 06:44:39 2005] [notice] jk2_init() Found child 32565 in scoreboard slot 11
+[Sun Dec 04 18:24:22 2005] [error] [client 125.30.38.52] Directory index forbidden by rule: /var/www/html/
+[Mon Dec 05 07:32:03 2005] [notice] jk2_init() Found child 4938 in scoreboard slot 8
+[Sun Dec 04 20:37:29 2005] [notice] jk2_init() Found child 2028 in scoreboard slot 9
+[Mon Dec 05 17:55:35 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:46:16 2005] [notice] jk2_init() Found child 1823 in scoreboard slot 8
+[Mon Dec 05 13:41:12 2005] [notice] jk2_init() Found child 5982 in scoreboard slot 6
+[Mon Dec 05 13:16:29 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:13:41 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 19:11:04 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 17:01:47 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:52:27 2005] [notice] jk2_init() Found child 32629 in scoreboard slot 10
+[Mon Dec 05 03:56:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:51:14 2005] [notice] jk2_init() Found child 32623 in scoreboard slot 11
+[Sun Dec 04 07:00:32 2005] [notice] jk2_init() Found child 32688 in scoreboard slot 11
+[Mon Dec 05 10:17:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:37:58 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:18:00 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:48:46 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 17:31:00 2005] [notice] jk2_init() Found child 1501 in scoreboard slot 7
+[Mon Dec 05 16:16:34 2005] [notice] jk2_init() Found child 6366 in scoreboard slot 6
+[Sun Dec 04 20:22:09 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 15:31:10 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:46:46 2005] [notice] jk2_init() Found child 4996 in scoreboard slot 7
+[Sun Dec 04 20:47:16 2005] [error] mod_jk child workerEnv in error state 9
+[Sun Dec 04 06:17:23 2005] [notice] jk2_init() Found child 32440 in scoreboard slot 10
+[Sun Dec 04 16:56:27 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 06:36:58 2005] [notice] jk2_init() Found child 4821 in scoreboard slot 10
+[Mon Dec 05 13:39:41 2005] [error] mod_jk child workerEnv in error state 9
+[Mon Dec 05 04:10:47 2005] [notice] jk2_init() Found child 3698 in scoreboard slot 9
+[Sun Dec 04 19:32:34 2005] [notice] jk2_init() Found child 1788 in scoreboard slot 6
+[Sun Dec 04 16:56:25 2005] [notice] jk2_init() Found child 1334 in scoreboard slot 8
+[Sun Dec 04 20:05:59 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:17:23 2005] [notice] jk2_init() Found child 32439 in scoreboard slot 9
+[Sun Dec 04 06:58:29 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:30:43 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:05:24 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:28:14 2005] [notice] jk2_init() Found child 5922 in scoreboard slot 9
+[Mon Dec 05 05:06:42 2005] [notice] jk2_init() Found child 4595 in scoreboard slot 7
+[Sun Dec 04 06:55:19 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 14:01:48 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:16:29 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:43:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:01:18 2005] [notice] jk2_init() Found child 2880 in scoreboard slot 8
+[Mon Dec 05 04:01:23 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:10:55 2005] [notice] jk2_init() Found child 5856 in scoreboard slot 8
+[Sun Dec 04 09:35:12 2005] [error] [client 207.203.80.15] Directory index forbidden by rule: /var/www/html/
+[Mon Dec 05 04:13:54 2005] [notice] jk2_init() Found child 3753 in scoreboard slot 10
+[Mon Dec 05 10:59:25 2005] [notice] jk2_init() Found child 5565 in scoreboard slot 9
+[Sun Dec 04 04:58:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 05:15:33 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:20:38 2005] [notice] jk2_init() Found child 1439 in scoreboard slot 7
+[Mon Dec 05 18:50:31 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:47:11 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 16:41:22 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 16:56:27 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 03:56:12 2005] [notice] jk2_init() Found child 2867 in scoreboard slot 8
+[Sun Dec 04 17:05:45 2005] [notice] jk2_init() Found child 1377 in scoreboard slot 6
+[Sun Dec 04 04:53:05 2005] [notice] jk2_init() Found child 6752 in scoreboard slot 10
+[Sun Dec 04 05:04:03 2005] [notice] jk2_init() Found child 8743 in scoreboard slot 7
+[Mon Dec 05 16:10:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:10:44 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 19:51:16 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:32:03 2005] [notice] jk2_init() Found child 4936 in scoreboard slot 6
+[Mon Dec 05 07:55:13 2005] [notice] jk2_init() Found child 5036 in scoreboard slot 9
+[Sun Dec 04 19:35:58 2005] [notice] jk2_init() Found child 1799 in scoreboard slot 7
+[Sun Dec 04 16:47:59 2005] [notice] jk2_init() Found child 1298 in scoreboard slot 8
+[Mon Dec 05 14:01:47 2005] [notice] jk2_init() Found child 6100 in scoreboard slot 7
+[Sun Dec 04 06:17:02 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:13:54 2005] [notice] jk2_init() Found child 3754 in scoreboard slot 12
+[Mon Dec 05 05:06:42 2005] [notice] jk2_init() Found child 4596 in scoreboard slot 8
+[Mon Dec 05 16:31:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:32:34 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:35:49 2005] [notice] jk2_init() Found child 1262 in scoreboard slot 9
+[Sun Dec 04 13:32:32 2005] [error] [client 65.68.235.27] Directory index forbidden by rule: /var/www/html/
+[Mon Dec 05 07:57:02 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:02:03 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 04:56:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:12:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:01:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 03:56:15 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:53:04 2005] [notice] jk2_init() Found child 32634 in scoreboard slot 11
+[Sun Dec 04 20:05:55 2005] [notice] jk2_init() Found child 1888 in scoreboard slot 6
+[Mon Dec 05 04:07:23 2005] [notice] jk2_init() Found child 3672 in scoreboard slot 7
+[Sun Dec 04 04:52:12 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:30:41 2005] [notice] jk2_init() Found child 32507 in scoreboard slot 9
+[Sun Dec 04 06:57:19 2005] [notice] jk2_init() Found child 32667 in scoreboard slot 9
+[Sun Dec 04 20:16:15 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 11:06:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:34:13 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:33:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:21:29 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 03:36:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:34:25 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:40:06 2005] [error] mod_jk child workerEnv in error state 9
+[Sun Dec 04 06:43:40 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:48:56 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:56:51 2005] [notice] jk2_init() Found child 1852 in scoreboard slot 9
+[Sun Dec 04 19:32:34 2005] [notice] jk2_init() Found child 1790 in scoreboard slot 8
+[Mon Dec 05 13:16:27 2005] [notice] jk2_init() Found child 5878 in scoreboard slot 6
+[Sun Dec 04 06:46:30 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:01:37 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:59:43 2005] [notice] jk2_init() Found child 6070 in scoreboard slot 9
+[Sun Dec 04 06:42:25 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:57:24 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 14:01:47 2005] [notice] jk2_init() Found child 6101 in scoreboard slot 8
+[Mon Dec 05 13:16:27 2005] [notice] jk2_init() Found child 5876 in scoreboard slot 8
+[Mon Dec 05 10:38:04 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 03:36:57 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 17:12:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:47:21 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:28:26 2005] [notice] jk2_init() Found child 1964 in scoreboard slot 7
+[Sun Dec 04 17:20:46 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 13:46:20 2005] [notice] jk2_init() Found child 6005 in scoreboard slot 9
+[Mon Dec 05 13:43:46 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 05:11:54 2005] [notice] jk2_init() Found child 4612 in scoreboard slot 6
+[Mon Dec 05 13:45:01 2005] [notice] jk2_init() Found child 5998 in scoreboard slot 6
+[Sun Dec 04 06:46:32 2005] [notice] jk2_init() Found child 32582 in scoreboard slot 10
+[Sun Dec 04 06:22:48 2005] [notice] jk2_init() Found child 32476 in scoreboard slot 7
+[Sun Dec 04 04:59:38 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 15:51:18 2005] [notice] jk2_init() Found child 6297 in scoreboard slot 7
+[Sun Dec 04 06:16:10 2005] [notice] jk2_init() Found child 32434 in scoreboard slot 9
+[Sun Dec 04 06:16:39 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:50:54 2005] [notice] jk2_init() Found child 5017 in scoreboard slot 8
+[Mon Dec 05 15:31:06 2005] [notice] jk2_init() Found child 6260 in scoreboard slot 7
+[Mon Dec 05 04:01:23 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:12:05 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:38:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:01:43 2005] [notice] jk2_init() Found child 1358 in scoreboard slot 8
+[Mon Dec 05 14:01:48 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:16:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:49:06 2005] [notice] jk2_init() Found child 32600 in scoreboard slot 9
+[Sun Dec 04 20:24:45 2005] [notice] jk2_init() Found child 1951 in scoreboard slot 7
+[Mon Dec 05 03:56:15 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:28:42 2005] [notice] jk2_init() Found child 1477 in scoreboard slot 6
+[Sun Dec 04 19:46:13 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:11:37 2005] [notice] jk2_init() Found child 1388 in scoreboard slot 8
+[Mon Dec 05 12:36:36 2005] [notice] jk2_init() Found child 5790 in scoreboard slot 7
+[Sun Dec 04 20:01:37 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:00:32 2005] [notice] jk2_init() Found child 32696 in scoreboard slot 6
+[Mon Dec 05 13:28:17 2005] [error] mod_jk child workerEnv in error state 8
+[Mon Dec 05 03:23:24 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:45:08 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:40:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 16:56:25 2005] [notice] jk2_init() Found child 1337 in scoreboard slot 6
+[Sun Dec 04 16:50:53 2005] [notice] jk2_init() Found child 1308 in scoreboard slot 6
+[Sun Dec 04 06:12:40 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 03:36:57 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 10:43:19 2005] [notice] jk2_init() Found child 5481 in scoreboard slot 8
+[Mon Dec 05 13:28:14 2005] [notice] jk2_init() Found child 5925 in scoreboard slot 8
+[Mon Dec 05 12:50:42 2005] [notice] jk2_init() Found child 5810 in scoreboard slot 9
+[Sun Dec 04 16:48:01 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:46:20 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 11:06:50 2005] [notice] jk2_init() Found child 5616 in scoreboard slot 6
+[Sun Dec 04 19:46:19 2005] [notice] jk2_init() Found child 1824 in scoreboard slot 9
+[Sun Dec 04 19:32:34 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 10:46:55 2005] [notice] jk2_init() Found child 5495 in scoreboard slot 9
+[Mon Dec 05 12:36:36 2005] [notice] jk2_init() Found child 5788 in scoreboard slot 9
+[Sun Dec 04 16:47:59 2005] [notice] jk2_init() Found child 1299 in scoreboard slot 9
+[Sun Dec 04 06:59:28 2005] [notice] jk2_init() Found child 32680 in scoreboard slot 6
+[Mon Dec 05 13:43:46 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 17:01:47 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 17:35:58 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:36:07 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:45:32 2005] [notice] jk2_init() Found child 32576 in scoreboard slot 7
+[Sun Dec 04 17:20:38 2005] [notice] jk2_init() Found child 1448 in scoreboard slot 6
+[Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 04:57:49 2005] [notice] jk2_init() Found child 8541 in scoreboard slot 9
+[Sun Dec 04 17:01:43 2005] [notice] jk2_init() Found child 1354 in scoreboard slot 9
+[Sun Dec 04 04:52:05 2005] [notice] jk2_init() Found child 6740 in scoreboard slot 7
+[Mon Dec 05 16:07:09 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 19:32:34 2005] [notice] jk2_init() Found child 1789 in scoreboard slot 7
+[Mon Dec 05 13:32:10 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 10:47:32 2005] [notice] jk2_init() Found child 5499 in scoreboard slot 9
+[Sun Dec 04 07:02:01 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:52:36 2005] [notice] jk2_init() Found child 6744 in scoreboard slot 10
+[Mon Dec 05 10:33:44 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:32:09 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 05:15:16 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 04:52:15 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 20:05:59 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 17:55:35 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 10:21:13 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 07:00:06 2005] [notice] jk2_init() Found child 32685 in scoreboard slot 6
+[Sun Dec 04 20:05:58 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:46:04 2005] [notice] jk2_init() Found child 1821 in scoreboard slot 6
+[Mon Dec 05 11:06:52 2005] [error] mod_jk child init 1 -2
+[Mon Dec 05 16:31:48 2005] [notice] jk2_init() Found child 6420 in scoreboard slot 6
+[Sun Dec 04 05:12:28 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:36:58 2005] [notice] jk2_init() Found child 5956 in scoreboard slot 9
+[Sun Dec 04 06:59:28 2005] [notice] jk2_init() Found child 32679 in scoreboard slot 8
+[Mon Dec 05 07:48:46 2005] [notice] jk2_init() Found child 5006 in scoreboard slot 8
+[Sun Dec 04 19:56:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 12:40:37 2005] [notice] jk2_init() Found child 5798 in scoreboard slot 8
+[Sun Dec 04 16:48:01 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:53:35 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:25:59 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:20:30 2005] [notice] jk2_init() Found child 32465 in scoreboard slot 7
+[Sun Dec 04 17:05:45 2005] [notice] jk2_init() Found child 1376 in scoreboard slot 10
+[Mon Dec 05 13:37:47 2005] [notice] jk2_init() Found child 5960 in scoreboard slot 9
+[Mon Dec 05 10:59:25 2005] [notice] jk2_init() Found child 5564 in scoreboard slot 8
+[Mon Dec 05 07:43:07 2005] [notice] jk2_init() Found child 4984 in scoreboard slot 7
+[Mon Dec 05 11:06:52 2005] [error] jk2_init() Can't find child 5619 in scoreboard
+[Sun Dec 04 06:12:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 05:00:15 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 18:20:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:57:24 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 15:41:32 2005] [notice] jk2_init() Found child 6278 in scoreboard slot 8
+[Sun Dec 04 06:45:32 2005] [notice] jk2_init() Found child 32572 in scoreboard slot 10
+[Mon Dec 05 11:06:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:43:08 2005] [notice] jk2_init() Found child 4985 in scoreboard slot 10
+[Sun Dec 04 07:06:11 2005] [notice] jk2_init() Found child 32742 in scoreboard slot 10
+[Mon Dec 05 10:17:45 2005] [notice] jk2_init() Found child 5350 in scoreboard slot 9
+[Sun Dec 04 04:52:12 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:21:25 2005] [notice] jk2_init() Found child 6386 in scoreboard slot 6
+[Sun Dec 04 19:36:07 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:22:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:16:21 2005] [notice] jk2_init() Found child 32435 in scoreboard slot 10
+[Mon Dec 05 17:55:35 2005] [notice] jk2_init() Found child 6601 in scoreboard slot 8
+[Mon Dec 05 04:08:37 2005] [notice] jk2_init() Found child 3680 in scoreboard slot 7
+[Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 06:55:23 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 11:06:52 2005] [error] mod_jk child init 1 -2
+[Mon Dec 05 04:08:57 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:02:01 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:46:34 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:54:20 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:48:01 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 19:36:07 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 10:33:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:41:14 2005] [notice] jk2_init() Found child 5470 in scoreboard slot 9
+[Mon Dec 05 13:53:35 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:07:09 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 05:04:04 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 07:02:01 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:41:29 2005] [notice] jk2_init() Found child 32550 in scoreboard slot 6
+[Sun Dec 04 04:54:18 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 16:46:09 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:52:19 2005] [notice] jk2_init() Found child 6034 in scoreboard slot 7
+[Mon Dec 05 12:50:43 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:05:45 2005] [notice] jk2_init() Found child 1375 in scoreboard slot 9
+[Sun Dec 04 17:12:54 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:20:30 2005] [notice] jk2_init() Found child 32464 in scoreboard slot 8
+[Mon Dec 05 10:26:36 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:52:07 2005] [notice] jk2_init() Found child 32627 in scoreboard slot 9
+[Mon Dec 05 10:33:41 2005] [notice] jk2_init() Found child 5419 in scoreboard slot 7
+[Mon Dec 05 03:47:54 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 17:39:00 2005] [notice] jk2_init() Found child 1527 in scoreboard slot 6
+[Mon Dec 05 13:22:45 2005] [notice] jk2_init() Found child 5898 in scoreboard slot 6
+[Mon Dec 05 13:47:11 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:46:34 2005] [error] mod_jk child workerEnv in error state 10
+[Sun Dec 04 20:01:37 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:32:04 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 03:25:46 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 04:54:15 2005] [notice] jk2_init() Found child 6765 in scoreboard slot 8
+[Mon Dec 05 19:14:08 2005] [notice] jk2_init() Found child 6784 in scoreboard slot 8
+[Sun Dec 04 17:43:08 2005] [notice] jk2_init() Found child 1568 in scoreboard slot 13
+[Mon Dec 05 13:22:48 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:41:08 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 20:26:58 2005] [notice] jk2_init() Found child 1959 in scoreboard slot 9
+[Sun Dec 04 06:58:53 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 04:07:48 2005] [notice] jk2_init() Found child 3675 in scoreboard slot 9
+[Mon Dec 05 11:06:51 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:56:27 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:19:19 2005] [notice] jk2_init() Found child 32452 in scoreboard slot 7
+[Sun Dec 04 06:16:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:22:12 2005] [notice] jk2_init() Found child 1936 in scoreboard slot 8
+[Mon Dec 05 12:55:48 2005] [notice] jk2_init() Found child 5816 in scoreboard slot 7
+[Sun Dec 04 06:44:39 2005] [notice] jk2_init() Found child 32563 in scoreboard slot 9
+[Mon Dec 05 10:43:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 05:06:47 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:06:20 2005] [notice] jk2_init() Found child 32389 in scoreboard slot 9
+[Mon Dec 05 07:36:19 2005] [notice] jk2_init() Found child 4950 in scoreboard slot 7
+[Sun Dec 04 06:45:32 2005] [notice] jk2_init() Found child 32569 in scoreboard slot 9
+[Mon Dec 05 10:42:23 2005] [notice] jk2_init() Found child 5475 in scoreboard slot 6
+[Sun Dec 04 06:12:31 2005] [notice] jk2_init() Found child 32419 in scoreboard slot 6
+[Mon Dec 05 05:06:42 2005] [notice] jk2_init() Found child 4594 in scoreboard slot 6
+[Sun Dec 04 04:51:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:17:56 2005] [notice] jk2_init() Found child 350 in scoreboard slot 9
+[Sun Dec 04 06:18:40 2005] [notice] jk2_init() Found child 32448 in scoreboard slot 8
+[Sun Dec 04 06:49:24 2005] [error] mod_jk child workerEnv in error state 8
+[Mon Dec 05 11:04:16 2005] [notice] jk2_init() Found child 5592 in scoreboard slot 8
+[Mon Dec 05 13:45:08 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:59:43 2005] [notice] jk2_init() Found child 6071 in scoreboard slot 8
+[Mon Dec 05 03:36:51 2005] [notice] jk2_init() Found child 2812 in scoreboard slot 6
+[Sun Dec 04 20:38:10 2005] [notice] jk2_init() Found child 2031 in scoreboard slot 7
+[Sun Dec 04 06:02:07 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 17:12:50 2005] [notice] jk2_init() Found child 1395 in scoreboard slot 10
+[Sun Dec 04 19:36:07 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 05:02:14 2005] [notice] jk2_init() Found child 8603 in scoreboard slot 10
+[Sun Dec 04 17:20:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:57:02 2005] [error] mod_jk child init 1 -2
+[Mon Dec 05 16:39:59 2005] [notice] jk2_init() Found child 6451 in scoreboard slot 7
+[Mon Dec 05 16:16:36 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:22:48 2005] [notice] jk2_init() Found child 32480 in scoreboard slot 8
+[Mon Dec 05 13:32:28 2005] [notice] jk2_init() Found child 5942 in scoreboard slot 8
+[Mon Dec 05 16:39:59 2005] [notice] jk2_init() Found child 6453 in scoreboard slot 10
+[Mon Dec 05 14:11:45 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 19:15:55 2005] [notice] jk2_init() Found child 6791 in scoreboard slot 8
+[Mon Dec 05 05:12:56 2005] [notice] jk2_init() Found child 4616 in scoreboard slot 6
+[Sun Dec 04 07:02:01 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:09:32 2005] [notice] jk2_init() Found child 3685 in scoreboard slot 6
+[Sun Dec 04 06:18:11 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:18:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:45:57 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 17:43:12 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:20:44 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 05:12:56 2005] [notice] jk2_init() Found child 4618 in scoreboard slot 8
+[Sun Dec 04 04:54:15 2005] [notice] jk2_init() Found child 6766 in scoreboard slot 6
+[Mon Dec 05 15:51:18 2005] [notice] jk2_init() Found child 6296 in scoreboard slot 6
+[Sun Dec 04 16:56:27 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:31:45 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:32:34 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 15:55:32 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:16:15 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:43:16 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 06:36:58 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 16:07:08 2005] [notice] jk2_init() Found child 6338 in scoreboard slot 7
+[Sun Dec 04 17:17:07 2005] [notice] jk2_init() Found child 1412 in scoreboard slot 10
+[Sun Dec 04 17:05:48 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 16:26:05 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:59:47 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 13:32:01 2005] [notice] jk2_init() Found child 5939 in scoreboard slot 9
+[Sun Dec 04 06:02:05 2005] [notice] jk2_init() Found child 32360 in scoreboard slot 11
+[Mon Dec 05 07:32:03 2005] [notice] jk2_init() Found child 4935 in scoreboard slot 9
+[Mon Dec 05 07:52:29 2005] [notice] jk2_init() Found child 5022 in scoreboard slot 6
+[Mon Dec 05 18:27:37 2005] [error] mod_jk child workerEnv in error state 7
+[Sun Dec 04 20:11:14 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:42:58 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:59:34 2005] [notice] jk2_init() Found child 32682 in scoreboard slot 7
+[Sun Dec 04 19:46:13 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 10:59:29 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 19:41:20 2005] [notice] jk2_init() Found child 1816 in scoreboard slot 9
+[Sun Dec 04 04:54:20 2005] [notice] jk2_init() Found child 6768 in scoreboard slot 9
+[Sun Dec 04 04:53:05 2005] [notice] jk2_init() Found child 6751 in scoreboard slot 9
+[Mon Dec 05 13:28:14 2005] [notice] jk2_init() Found child 5923 in scoreboard slot 6
+[Sun Dec 04 19:41:20 2005] [notice] jk2_init() Found child 1815 in scoreboard slot 8
+[Sun Dec 04 04:59:35 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:14:00 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:52:49 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 16:10:43 2005] [notice] jk2_init() Found child 6350 in scoreboard slot 7
+[Mon Dec 05 03:50:59 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 07:13:41 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:57:02 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 03:56:12 2005] [notice] jk2_init() Found child 2865 in scoreboard slot 9
+[Sun Dec 04 04:54:18 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:42:11 2005] [notice] jk2_init() Found child 32551 in scoreboard slot 8
+[Sun Dec 04 07:18:00 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 07:21:09 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 11:06:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:16:00 2005] [notice] jk2_init() Found child 4892 in scoreboard slot 6
+[Sun Dec 04 06:53:04 2005] [notice] jk2_init() Found child 32633 in scoreboard slot 9
+[Mon Dec 05 05:15:29 2005] [notice] jk2_init() Found child 4631 in scoreboard slot 9
+[Sun Dec 04 16:52:45 2005] [notice] jk2_init() Found child 1322 in scoreboard slot 10
+[Sun Dec 04 17:01:47 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:52:46 2005] [notice] jk2_init() Found child 1324 in scoreboard slot 7
+[Sun Dec 04 20:34:25 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:21:13 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:43:43 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:19:56 2005] [notice] jk2_init() Found child 32453 in scoreboard slot 8
+[Mon Dec 05 10:59:29 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 06:12:31 2005] [notice] jk2_init() Found child 32421 in scoreboard slot 11
+[Mon Dec 05 07:16:03 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 13:10:59 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 16:32:56 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 10:38:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 07:32:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 06:35:27 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 13:31:53 2005] [notice] jk2_init() Found child 5938 in scoreboard slot 8
+[Mon Dec 05 10:47:47 2005] [notice] jk2_init() Found child 5500 in scoreboard slot 6
+[Mon Dec 05 07:43:16 2005] [error] mod_jk child workerEnv in error state 7
+[Mon Dec 05 05:15:33 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Dec 05 04:13:54 2005] [notice] jk2_init() Found child 3755 in scoreboard slot 13
+[Mon Dec 05 10:26:31 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 07:43:19 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 20:01:30 2005] [notice] jk2_init() Found child 1867 in scoreboard slot 8
+[Sun Dec 04 06:18:31 2005] [error] mod_jk child workerEnv in error state 6
+[Mon Dec 05 03:46:38 2005] [notice] jk2_init() Found child 2838 in scoreboard slot 10
+[Sun Dec 04 19:25:51 2005] [notice] jk2_init() Found child 1763 in scoreboard slot 6
+[Mon Dec 05 07:54:48 2005] [notice] jk2_init() Found child 5033 in scoreboard slot 8
+[Mon Dec 05 07:51:39 2005] [notice] jk2_init() Found child 5019 in scoreboard slot 7
+[Sun Dec 04 07:08:02 2005] [notice] jk2_init() Found child 32761 in scoreboard slot 6
+[Mon Dec 05 18:45:53 2005] [error] mod_jk child workerEnv in error state 6
+[Sun Dec 04 06:41:04 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 17:39:00 2005] [notice] jk2_init() Found child 1528 in scoreboard slot 7
+[Mon Dec 05 18:45:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Dec 04 06:55:00 2005] [notice] jk2_init() Found child 32649 in scoreboard slot 10
+[Sun Dec 04 06:20:46 2005] [error] mod_jk child workerEnv in error state 8
+[Sun Dec 04 20:41:47 2005] [notice] jk2_init() Found child 2045 in scoreboard slot 9
