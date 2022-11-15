@@ -1,0 +1,11 @@
+
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ symlinkdir
+Start: test symlinks to directory
+public testcase 1: ok
+public testcase 2: ok
+$ qemu-system-riscv64: terminating on signal 15 from pid 1218 (make)

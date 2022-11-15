@@ -1,0 +1,22 @@
+#!/usr/bin/python
+
+import re
+from gradelib import *
+
+r = Runner(save("xv6.out"))
+
+@test(0, "Testing large files")
+def test_bigfile():
+    r.run_qemu(shell_script([
+        'bigfile'
+    ]), timeout=1800)
+
+@test(6, "Large files: public testcase 1 (6 points)", parent=test_bigfile)
+def test_bigfile_public1():
+    r.match('^public testcase 1: ok$')
+
+@test(6, "Large files: public testcase 2 (6 points)", parent=test_bigfile)
+def test_bigfile_public2():
+    r.match('^public testcase 2: ok$')
+
+run_tests()

@@ -1,0 +1,26 @@
+#!/usr/bin/python
+
+import re
+from gradelib import *
+
+r = Runner(save("xv6.out"))
+
+@test(0, "Testing symbolic links to directories (private)")
+def test_symlinkfile():
+    r.run_qemu(shell_script([
+        'symlinkdir_private'
+    ]), timeout=20)
+
+@test(6, "Symbolic links to directories: private testcase 1 (6 points)", parent=test_symlinkfile)
+def test_symlink_file_public1():
+    r.match("^private testcase 1: ok$")
+
+@test(6, "Symbolic links to directories: private testcase 2 (6 points)", parent=test_symlinkfile)
+def test_symlink_file_public2():
+    r.match("^private testcase 2: ok$")
+
+@test(6, "Symbolic links to directories: private testcase 3 (6 points)", parent=test_symlinkfile)
+def test_symlink_file_public2():
+    r.match("^private testcase 3: ok$")
+
+run_tests()

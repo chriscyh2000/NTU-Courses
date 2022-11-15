@@ -1,0 +1,13 @@
+== Test thread package with public testcase 0 (20%) ==
+thread package with public testcase 0: OK (16.4s)
+== Test thread package with public testcase 1 (20%) ==
+thread package with public testcase 1: OK (1.2s)
+== Test thread package with private testcase 0 (15%) ==
+thread package with private testcase 0: OK (1.0s)
+== Test thread package with private testcase 1 (15%) ==
+thread package with private testcase 1: OK (0.8s)
+== Test thread package with private testcase 2 (15%) ==
+thread package with private testcase 2: OK (0.9s)
+== Test thread package with private testcase 3 (15%) ==
+thread package with private testcase 3: OK (1.0s)
+Score: 100/100

@@ -1,0 +1,64 @@
+#!/usr/bin/env python3
+
+import csv
+import os
+import shutil
+
+SYSCALLSCORE = 16
+SYSCALLpartialPercentage = [0, 0.5, 0.75, 1]
+
+os.system("make clean")
+algoToScore = {}
+algoToScore["FCFS"] = 6
+algoToScore["RR"] = 6
+algoToScore["SJF"] = 6
+algoToScore["PSJF"] = 6
+partialPercentage = [ 0, 0.5, 0.75, 1 ]
+score = 0
+
+comments = []
+
+# test the syscalls
+print(f'********************syscalls********************')
+result = os.popen( f"python3 grade-mp3-syscalls" ).read()
+passTestNum = result.find("eac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338 passTest")
+passTestNum = result[passTestNum:].split('\n', 1)[0]
+print(passTestNum)
+passTestNum = passTestNum.split()
+print(passTestNum)
+
+passTestNum = int(passTestNum[-1])
+if( result.find("OK-eac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338") == -1 ):
+    comments += [f"syscall test: only pass {passTestNum} tests"]
+    score += SYSCALLSCORE * SYSCALLpartialPercentage[passTestNum]
+else:
+    comments +=  ["syscall test: pass"]
+    score += SYSCALLSCORE
+
+for algo in [ "FCFS", "SJF", "PSJF", "RR" ]:
+    print(f'********************{algo}********************')
+
+    result = os.popen( f"python3 grade-mp3-{algo}" ).read()
+
+    flag = 1
+    failTask = []
+    passTaskNum = 3
+    for taski in range(1, 4):
+        if( result.find(f"task{taski}: OK-eac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338") == -1 ):
+            flag = 0
+            failTask.append(f"task{taski}")
+            passTaskNum -= 1
+    failTask = "[" + ", ".join(failTask) + "]"
+    if( flag == 0 ):
+        comments +=  [f"{algo}: fail in {failTask}"]
+    else:
+        comments +=  [f"{algo}: pass"]
+
+    score += algoToScore[algo] * partialPercentage[passTaskNum]
+
+print("************************************************************\n\n")
+print(", ".join(comments))
+print(f'your score is {score}')
+print("\n\n************************************************************")
+
+os.popen("make clean")

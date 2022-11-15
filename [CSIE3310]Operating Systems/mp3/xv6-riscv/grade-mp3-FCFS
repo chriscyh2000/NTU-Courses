@@ -1,0 +1,49 @@
+#!/usr/bin/env python3
+
+import re
+import subprocess
+from gradelib import *
+
+import os
+os.system("make clean")
+
+
+r = Runner(save("xv6.out"))
+
+@test(1, "task1")
+def test_uthread():
+    r.run_qemu(shell_script([
+        'task1'
+    ]), make_args = ["SCHEDPOLICY=THREAD_SCHEDULER_FCFS"])
+    expected = """thrd1 exec (15|14|16) ticks
+thrd2 exec (30|29|31) ticks
+thrd3 exec (45|44|46) ticks"""
+    if not re.findall(expected, r.qemu.output, re.M):
+        raise AssertionError('Output does not match expected output')
+
+@test(1, "task2")
+def test_uthread():
+    r.run_qemu(shell_script([
+        'task2'
+    ]), make_args = ["SCHEDPOLICY=THREAD_SCHEDULER_FCFS"])
+    expected = """thrd1 exec (15|14|16) ticks
+thrd2 exec (30|29|31) ticks
+thrd3 exec (38|37|39) ticks"""
+    if not re.findall(expected, r.qemu.output, re.M):
+        raise AssertionError('Output does not match expected output')
+
+@test(1, "task3")
+def test_uthread():
+    r.run_qemu(shell_script([
+        'task3'
+    ]), make_args = ["SCHEDPOLICY=THREAD_SCHEDULER_FCFS"])
+    expected = """thrd1 exec (20|19|21) ticks
+thrd2 exec (35|34|36) ticks
+thrd3 exec (50|49|51) ticks
+thrd4 exec (50|49|51) ticks"""
+    if not re.findall(expected, r.qemu.output, re.M):
+        raise AssertionError('Output does not match expected output')
+
+run_tests()
+
+os.system("make clean")

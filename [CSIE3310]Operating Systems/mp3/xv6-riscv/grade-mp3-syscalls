@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+
+import re
+import subprocess
+from gradelib import *
+
+import os
+os.system("make clean")
+
+
+passTestNum = 3
+
+
+r = Runner(save("xv6.out"))
+
+@test(1, "test1")
+def test_uthread():
+    global passTestNum
+    r.run_qemu(shell_script([
+        'test1'
+    ]), make_args = ["SCHEDPOLICY=THREAD_SCHEDULER_DEFAULT"])
+
+    passflag = True
+
+    if not re.findall("eac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338 1", r.qemu.output, re.M):
+        passTestNum -= 1  
+        passflag = False
+    if not re.findall("eac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338 2", r.qemu.output, re.M):
+        passTestNum -= 1
+        passflag = False
+
+    if( not passflag ):
+        raise AssertionError('Output does not match expected output')
+
+@test(1, "test2")
+def test_uthread():
+    global passTestNum
+    r.run_qemu(shell_script([
+        'test2'
+    ]), make_args = ["SCHEDPOLICY=THREAD_SCHEDULER_DEFAULT"])
+
+    passflag = True
+
+    if not re.findall("eac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338 3", r.qemu.output, re.M):
+        passTestNum -= 1  
+        passflag = False
+        
+    print(f"\neac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338 passTest {passTestNum}")
+    if( not passflag ):
+        raise AssertionError('Output does not match expected output')
+
+
+
+run_tests()
+
+os.system("make clean")
