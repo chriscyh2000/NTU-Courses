@@ -1,0 +1,10 @@
+name: adl-hw1
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - cudatoolkit=10.2
+  - cudnn=7.6
+  - pip
+  - pip:
+      - pip-tools
