@@ -1,0 +1,6 @@
+tqdm==4.64.1
+numpy==1.23.3
+transformers==4.22.2
+datasets==2.5.2
+jsonlines
+sentencepiece

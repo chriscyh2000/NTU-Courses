@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+tw_rouge/__init__.py
+tw_rouge/twrouge.py
+tw_rouge.egg-info/PKG-INFO
+tw_rouge.egg-info/SOURCES.txt
+tw_rouge.egg-info/dependency_links.txt
+tw_rouge.egg-info/requires.txt
+tw_rouge.egg-info/top_level.txt

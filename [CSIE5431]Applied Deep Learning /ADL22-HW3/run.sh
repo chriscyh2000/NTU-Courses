@@ -1,0 +1,1 @@
+python test.py --data_path $1 --pred_file $2 
