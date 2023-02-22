@@ -1,0 +1,22 @@
+# processed_data 
+
+- 從原本資料processed:
+  - Train_user.json
+  - Train_course.json
+- Augmented出來的資料
+  - Aug_train_group.csv
+  - Aug_train.csv
+  - Aug_user.csv
+    - V2產生的augmented user比較多元 數量也較多 以後請用v2的
+  - Aug_train_group_v2.csv
+  - Aug_train_v2.csv
+  - Aug_user_v2.csv
+    - V3 保證用同一個人生出來的mask不會重複 而且數量更多 
+    - 用`preprocessing/augment_user.py`
+  - Aug_train_group_v3.csv
+  - Aug_train_v3.csv
+  - Aug_user_v3.csv
+- 有原本資料跟augmented的資料的
+  - combined_train_user(_v2/_v3).json 
+    - 要先跑`preprocessing/preprocess_user.py`
+    - 再來跑

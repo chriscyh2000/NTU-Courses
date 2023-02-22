@@ -1,0 +1,1 @@
+from encoder.base import BaseEncoder

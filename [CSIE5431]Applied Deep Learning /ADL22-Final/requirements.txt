@@ -1,0 +1,8 @@
+transformers
+sentencepiece
+fairseq
+pandas
+datasets
+tensorboard
+gym
+xgboost
